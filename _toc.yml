@@ -17,3 +17,10 @@ parts:
     chapters:
     - file: part3/cluster
     - file: part3/hpccycle
+      sections:
+        - file: part3/preparedness
+        - file: part3/needs assessment
+        - file: part3/strategic planning
+        - file: part3/resource mobilization
+        - file: part3/implementation and monitoring
+        - file: part3/opr
