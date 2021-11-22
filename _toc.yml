@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+root: introduction
+format: jb-book
+parts:
+  - caption: Humanitarian IM
+    chapters:
+    - file: part1/data literacy
+    - file: part1/what is information management
+    - file: part1/communication
+    - file: part1/data responsibility
+  - caption: CCCM Operations IM
+    chapters:
+    - file: part2/operations
+  - caption: CCCM Cluster IM
+    chapters:
+    - file: part3/cluster
+    - file: part3/hpccycle
