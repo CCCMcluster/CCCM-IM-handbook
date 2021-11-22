@@ -3,7 +3,7 @@
 The handbook is in a very early stage of development!
 :::
 
-- Introduce the rationale for creating this handbook.
+- Introduce the rationale for creating this handbook - what need is it adressing.
 - State the learning objectives of the handbook.
 - Explain who are the target audiences.
 - Explain how the handbook should be used. [^1]
