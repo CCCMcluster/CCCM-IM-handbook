@@ -7,6 +7,7 @@ The handbook is in a very early stage of development!
 - State the learning objectives of the handbook.
 - Explain who are the target audiences.
 - Explain how the handbook should be used. [^1]
+- Who to contact if there are any questions or issues.
 
 
 ```{figure} part1/images/spirits.jpg
