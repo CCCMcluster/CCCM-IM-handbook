@@ -9,9 +9,11 @@ parts:
     - file: part1/what is information management
     - file: part1/communication
     - file: part1/data responsibility
+    - file: part1/tools
   - caption: CCCM Operations IM
     chapters:
     - file: part2/operations
+    - file: part2/products
   - caption: CCCM Cluster IM
     chapters:
     - file: part3/cluster
@@ -23,4 +25,4 @@ parts:
         - file: part3/resource mobilization
         - file: part3/implementation and monitoring
         - file: part3/opr
-    - file: part3/tools
+    - file: part3/products
