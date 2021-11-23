@@ -9,8 +9,10 @@ The handbook is in a very early stage of development!
 - Explain how the handbook should be used. [^1]
 - Who to contact if there are any questions or issues.
 
+````{margin}
 ```{note}
 To download this guidance as a pdf, click *here!* (coming soon)
+```
 ```
 
 
