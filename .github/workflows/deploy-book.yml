@@ -28,6 +28,11 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+        
+    # Clean the book
+    - name: Clean the book
+      run: |
+        jupyter-book clean .
 
     # Build the book
     - name: Build the book
