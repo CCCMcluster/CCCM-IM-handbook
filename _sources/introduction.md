@@ -13,7 +13,7 @@ The handbook is in a very early stage of development!
 ```{note}
 To download this guidance as a pdf, click *here!* (coming soon)
 ```
-```
+````
 
 
 ```{figure} part1/images/spirits.jpg
