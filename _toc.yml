@@ -26,3 +26,4 @@ parts:
         - file: part3/implementation and monitoring
         - file: part3/opr
     - file: part3/products
+    - file: conclusion
