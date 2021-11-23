@@ -7,6 +7,8 @@ parts:
     chapters:
     - file: part1/data literacy
     - file: part1/what is information management
+    - file: part1/design
+    - file: part1/analysis
     - file: part1/communication
     - file: part1/data responsibility
     - file: part1/tools
