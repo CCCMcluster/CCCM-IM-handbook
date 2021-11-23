@@ -1,4 +1,4 @@
-## Tools
+# Tools
 
 The choice of software used to create CCCM products can be influenced by factors such as personal preference/familiarity, experience - some IMs may prefer more advanced tools, time constraints and budget. The following list of software is not a prescriptive list, rather a list of tools preferred by the authors 
 
@@ -12,5 +12,4 @@ The choice of software used to create CCCM products can be influenced by factors
 ...
 
 ### Microsoft PowerBI
-
-## Templates
+..
