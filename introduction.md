@@ -11,7 +11,7 @@ The handbook is in a very early stage of development!
 
 ````{margin}
 ```{note}
-To download this guidance as a pdf, click *here!* (coming soon)
+To download this guidance as a pdf, click {download}`here <./part1/files/jiaf.pdf>`
 ```
 ````
 
@@ -25,9 +25,6 @@ A funny image
 This sentence is to test links to [websites](https://cccmcluster.org)
 
 This one it to test footnotes [^myref]
-
-{download}`Download file <./part1/files/jiaf.pdf>`
-
 
 
 # Acknowledgements
