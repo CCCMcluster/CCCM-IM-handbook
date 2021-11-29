@@ -1,6 +1,6 @@
 # Introduction
 :::{warning}
-The handbook is in an early stage of drafting. Most sections are incomplete and structure of the handbook may be subject to change.
+The handbook is also available for download in an early stage of drafting. Most sections are incomplete and structure of the handbook may be subject to change.
 :::
 
 ```{note}
