@@ -3,6 +3,10 @@
 The handbook is in an early stage of drafting. Most sections are incomplete and structure of the handbook may be subject to change.
 :::
 
+```{note}
+This handbook is also availble in {download}`**pdf** <./book.pdf>` and {download}`**kindle** <./kindle.mobi>` 
+```
+
 This handbook was developed [^ref1] with the aim of providing a consolidated guidance document covering the key aspects of Information Management (IM) for Camp Coordination and Camp Management (CCCM). It was created to fill the gaps in guidance specific to information management in CCCM and to document, consolidate and streamline existing IM practices within the sector.
 
 The primary audience for this handbook are information management staff of all levels, who are involved, or plan to be involved in IM for CCCM in either a programmes or cluster capacity. The handbook is also relevant to non IM personnel especially coordinators, acknowledging the importance of understanding both data literacy and CCCM analytical norms outside of the IM function.
@@ -28,12 +32,6 @@ If you have any questions, wish to correct any technical or textual mistakes, or
 We would like to thank everybody for their support in developing this handbook and hope that you find it accesible and useful
 
 -- the CCCM Cluster team
-```
-
-```{note}
-This handbook is also availble in the following formats: 
-{badge}`pdf,badge-primary`
-{download}`{badge}`pdf,badge-primary` {download}`
 ```
 
 ## Acknowledgements
