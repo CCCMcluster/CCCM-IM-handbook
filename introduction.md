@@ -3,7 +3,7 @@
 The handbook is in an early stage of drafting. Most sections are incomplete and structure of the handbook may be subject to change.
 :::
 
-This handbook was developed [^myref1] with the aim of providing a consolidated guidance document covering the key aspects of Information Management (IM) for Camp Coordination and Camp Management (CCCM). It was created to fill the gaps in guidance specific to information management in CCCM and to document, consolidate and streamline existing IM practices within the sector.
+This handbook was developed [^ref1] with the aim of providing a consolidated guidance document covering the key aspects of Information Management (IM) for Camp Coordination and Camp Management (CCCM). It was created to fill the gaps in guidance specific to information management in CCCM and to document, consolidate and streamline existing IM practices within the sector.
 
 The primary audience for this handbook are information management staff of all levels, who are involved, or plan to be involved in IM for CCCM in either a programmes or cluster capacity. The handbook is also relevant to non IM personnel especially coordinators, acknowledging the importance of understanding both data literacy and CCCM analytical norms outside of the IM function.
 
@@ -14,8 +14,15 @@ The handbook is presented in three parts, broadly reflecting the differing use-c
 
 Humanitarian approaches and tools grow and change over time, which is particularly evident in the field of information management. This handbook aims to be a *living document* whose contents will be continually updated to reflect our growing knowledge and best practices, and evolution in our approaches and tools in both IM and CCCM.
 
-###
-If you have any questions, wish to correct any technical or textual mistakes, or wish to suggest improvements to this handbook, plese get in touch with the Global CCCM Cluster Innformation Management Officers (IMO) Brian Mc Donald - [bmcdonald@iom.int](mailto:bmcdonald@iom.int) or Alisa Ananbeh - [ananbeh@unhcr.org](mailto:ananbeh@unhcr.org)
+```{figure} part1/images/spirits.jpg
+---
+width: 400px
+---
+Towards evidence-based desision making
+```
+
+## Feedback
+If you have any questions, wish to correct any technical or textual mistakes, or wish to suggest improvements to this handbook, plese get in touch with the Global CCCM Cluster Information Management Officers (IMO) Brian Mc Donald - [bmcdonald@iom.int](mailto:bmcdonald@iom.int) or Alisa Ananbeh - [ananbeh@unhcr.org](mailto:ananbeh@unhcr.org)
 
 ```{epigraph}
 We would like to thank everybody for their support in developing this handbook and hope that you find it accesible and useful
@@ -23,20 +30,13 @@ We would like to thank everybody for their support in developing this handbook a
 -- the CCCM Cluster team
 ```
 
-
 ```{note}
-To download this guidance as a pdf, click {download}`here <./part1/files/jiaf.pdf>`
+This handbook is also availble in the following formats: 
+{badge}`pdf,badge-primary`
+{download}`{badge}`pdf,badge-primary` {download}`
 ```
 
-```{figure} part1/images/spirits.jpg
----
-width: 400px
----
-A funny image
-```
-
-
-# Acknowledgements
+## Acknowledgements
 The content in this handbook are drawn from three main sources:
 - The experience, advice and materials from our CCCM colleagues in the field.
 - Guidance materials developed at the global-level from inter-agency platforms such as the Global Information Management Working Group and from other Clusters.
@@ -44,5 +44,5 @@ The content in this handbook are drawn from three main sources:
 
 
 
-[^myref1]: Development of the handbook started in late 2021, with the first draft produced in February 2022.
-[^myref2]: A sample footnote with {download}`file <./part1/files/jiaf.pdf>`
+[^ref1]: Development of the handbook started in late 2021, with the first draft produced in February 2022.
+[^ref2]: A sample footnote with {download}`file <./part1/files/jiaf.pdf>`
