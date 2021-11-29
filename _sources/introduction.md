@@ -7,7 +7,7 @@ The handbook is in an early stage of drafting. Most sections are incomplete and 
 This handbook is also availble in {download}`pdf <./book.pdf>` and {download}`kindle <./kindle.mobi>` formats. 
 ```
 
-This handbook was developed with the aim of providing a consolidated guidance document covering the key aspects of Information Management (IM) for Camp Coordination and Camp Management (CCCM).[^ref1] It was created to fill the gaps in guidance specific to information management in CCCM and to document, consolidate and streamline existing IM practices within the sector.
+This handbook was developed with the aim of providing a consolidated guidance document covering the key aspects of Information Management (IM) for Camp Coordination and Camp Management (CCCM). It was created to fill the gaps in guidance specific to information management in CCCM and to document, consolidate and streamline existing IM practices within the sector.[^ref1] 
 
 The primary audience for this handbook are information management staff of all levels, who are involved, or plan to be involved in IM for CCCM in either a programmes or cluster capacity. The handbook is also relevant to non IM personnel especially coordinators, acknowledging the importance of understanding both data literacy and CCCM analytical norms outside of the IM function.
 
@@ -15,6 +15,8 @@ The handbook is presented in three parts, broadly reflecting the differing use-c
 - **Part 1** provides an overview of the key concepts related to humanitarian information management, which can be applied to all sectors and technical areas in a humanitarian respose. 
 - **Part 2** builds upon the knowledge from part 1, appling it to the role of information management within CCCM programmes.
 - **Part 3** focuses on the role of CCCM IM within cluster coordination, with the key responsibilities for each stage of the Humaitarian Programme Cycle (HPC).
+
+The handbook is available as a website (viewable on desktop or phone) or can be download as a pdf or kindle format for offline viewing. While viewing the web version, the left margin shows the three parts of the handbook, containing each chapter. Some of the larger chapters are split into sections (denoted by a downward-facing arrow). The right margin of the screen are for easy navigation through the content ofeach chapter/section.
 
 Humanitarian approaches and tools grow and change over time, which is particularly evident in the field of information management. This handbook aims to be a *living document* whose contents will be continually updated to reflect our growing knowledge and best practices, and evolution in our approaches and tools in both IM and CCCM.
 
