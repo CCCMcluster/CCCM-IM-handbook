@@ -3,7 +3,7 @@
 
 title: CCCM IM Handbook
 author: Global CCCM Cluster
-logo: logo.png
+logo: logoblue.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
