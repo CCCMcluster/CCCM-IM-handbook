@@ -33,3 +33,5 @@ html:
   use_edit_page_button: false
   extra_navbar: ""
   use_multitoc_numbering: false
+
+only_build_toc_files: true
