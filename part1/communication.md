@@ -38,8 +38,7 @@ Introduction....
 ...
 ## Data Visualization
 ...
-### Visual Design Principles
-...
+
 ### Choosing the right charts
 When visualising your data, the choice of chart depends on the quantity and type of data you want to respresent; the relationships in that data, and ultimately, whether or not the graph clearly communicates your message.[^footnote1]
 
@@ -75,7 +74,7 @@ will assume the relationships you show them to be causal (i.e. one causes the ot
 ![Column + line timeline](/part1/images/corellation2.png)  
 **Column + line timeline:** A good way of showing the relationship between an amount (columns) and a rate (line).
 
-![Connected scatterplot](/part1/images/corellation2.png)  
+![Connected scatterplot](/part1/images/corellation3.png)  
 **Connected scatterplot:** Usually used to show how the relationship between 2 variables has changed over time.
 
 ![Bubble](/part1/images/corellation4.png)  
@@ -89,9 +88,62 @@ Use where an item’s position in an ordered list is more important than its abs
 
 **Examples:** Comparing indicaotrs of need. Comparing displacement population figures across sites or districts.
 
+#### Distribution
+Show values in a dataset and how often they occur. The shape (or ‘skew’) of a distribution can be a memorable way of highlighting the lack of uniformity or equality in the data.
+
+**Examples:**
+
+#### Change over time
+Give emphasis to changing trends. These can be short (intra-day) movements or extended series traversing decades or centuries: Choosing the correct time period is important to provide suitable context for the reader.  
+
+**Examples:**
+
+#### Magnitude
+Show size comparisons. These can be relative (just being able to see larger/bigger) or absolute (need to see fine differences). Usually these show a ‘counted’ number (for example, barrels, dollars or people) rather than a calculated rate or per cent.  
+
+**Examples:**
+
+#### Part-to-whole
+Show how a single entity can be broken down into its component elements. If the reader’s interest is solely in the size of the components, consider a magnitude-type chart instead.
+
+**Examples:**
+
+#### Spatial
+Aside from locator maps only used when precise locations or geographical patterns in data are more important to the reader than anything else.
+
+**Examples:**
+
+#### Flow
+Show the reader volumes or intensity of movement between two or more states or conditions. These might be logical sequences or geographical locations.
+
+**Examples:**
+
+### Visual Design Principles
+Developed by German psychologists, the Gestalt laws describe how we interpret the complex world around us. They explain why a series of flashing lights appear to be moving. And why we read a sentence like this, notli ket his ort hat. Understanding these "laws" can be useful in making sure your message is being coveyed effectively.
+
+#### Law of Similarity.
+...
+#### Law of Pragnanz
+...
+#### Law of Proximity
+...
+#### Law of Continuity
+...
+#### Law of Closure
+...
+#### Law of Common Region
+...
+
 
 ### Use of Colour
-...
+When choosing colours in your charts its important to understand possible local significance that may be associated to a specific colour. For instance, in one country a colour may signify good luck, whereas in a different country, the same colour could be associated with a non-state armed group. 
+
+Where possible, special attention should be taken to ensure that chart remain readible when printed in grayscale and that they are colour blind safe, meaning that the chart should not be confusing for people with red-green colour blindness (an estimated 8% of men and 0.4% of women).
+
+Adding to the discussion on the use of colour in the previous section, the use of colour in scales, particularly maps, typically takes one of the following three forms.
+**1. Countinous scales**
+**2. Diverging scales**
+**3. Categorical scales**
 
 [^footnote1]: Adapted from the FTs [Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/). A similar graphics decision tree, based on the type and number of variables, is available at [Data-to-Viz.com](https://www.data-to-viz.com/#area)
 
