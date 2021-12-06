@@ -140,11 +140,18 @@ When choosing colours in your charts its important to understand possible local 
 
 Where possible, special attention should be taken to ensure that chart remain readible when printed in grayscale and that they are colour blind safe, meaning that the chart should not be confusing for people with red-green colour blindness (an estimated 8% of men and 0.4% of women).
 
-Adding to the discussion on the use of colour in the previous section, the use of colour in scales, particularly maps, typically takes one of the following three forms.
-**1. Countinous scales**
+Adding to the previopus description of the role of color in perception, the use of colour in scales, particularly maps, typically takes one of the following three forms.[^footnote2]
+**1. Continous(sequential) scales**
 **2. Diverging scales**
-**3. Categorical scales**
+**3. Categorical(qualitative) scales**
+
+Two of the most common ways to respresent colour are RGB and CMYK. RGB, commonly used on websites can be shown as a hex number or RGB number. For printed materials where colour accuracy is important, CYMK is typically used. Not all software suppports the CMYK colour space, so if color accuracy is important you may want to use an Adobe tool such as Illustrator or In Design to apply finishing touches to print materials.[^footnote3]
 
 [^footnote1]: Adapted from the FTs [Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/). A similar graphics decision tree, based on the type and number of variables, is available at [Data-to-Viz.com](https://www.data-to-viz.com/#area)
+
+[^footnote2]: [Colorbrewer](https://colorbrewer2.org/) is a good resource for picking color palettes. 
+
+[^footnote3]: For a detailed explanatiion of RGB and CMYK and how they differ, see [here](https://en.99designs.ch/blog/tips/correct-file-formats-rgb-and-cmyk/)
+
 
 
