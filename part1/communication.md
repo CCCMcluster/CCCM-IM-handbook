@@ -7,13 +7,19 @@ When preparing to write up an analysis, it is important to reflect on the follow
 **Identify your target audience.** What group or groups are you targeting with the above objectives? You will need to tailor the language(non technical experts may not be familiar with technical language), length (shorter messages may be more suitable for general public consumption) and style (different audiences have different lenses in which they will consume and interpret your message).
 
 There are seven basic principles about writing about numbers: [^footnote5]  
-**1. Establish the context for your facts.**
-**2. Pick simple, plausible examples.**
-**3. Select the right tools and media  for the job.** The three basic tools for presenting quantitative information: prose, tables and charts. Choosing the most appropriate tool (or mix of them) and understanding their strengths and weaknesses, is important. Equally important is to use the most appropriate mix of media. Eg. Reports, interactive dashboards, infographics, video, social media, events.
-**4. Defining your terms (and be careful with jargon).** Unnecessary use of of acronyms and jargon will likely exclude parts of your audience or cause misunderstanding due to unshared understanding of concepts. If acronyms must be used, it is good practice to show them alongside their long form at the point where they first appear.
-**5. Reporting and interpreting.**
-**6. Specify direction and magnitude of an association.**
-**7. Summarize patterns.**
+1. **Establish the context for your facts.**  
+
+2. **Pick simple, plausible examples.**  
+
+3. **Select the right tools and media  for the job.** The three basic tools for presenting quantitative information: prose, tables and charts. Choosing the most appropriate tool (or mix of them) and understanding their strengths and weaknesses, is important. Equally important is to use the most appropriate mix of media. Eg. Reports, interactive dashboards, infographics, video, social media, events.  
+
+4. **Defining your terms (and be careful with jargon).** Unnecessary use of of acronyms and jargon will likely exclude parts of your audience or cause misunderstanding due to unshared understanding of concepts. If acronyms must be used, it is good practice to show them alongside their long form at the point where they first appear.  
+
+5. **Reporting and interpreting.**  
+
+6. **Specify direction and magnitude of an association.**  
+
+7. **Summarize patterns.**
 
 ```{tip}
 - Tell a story
@@ -54,6 +60,8 @@ will assume the relationships you show them to be causal (i.e. one causes the ot
 
 **Examples:** Showing the relationships between areas of origin and current location of displacement.
 
+```{dropdown} Correlation
+
 ![Scatterplot](/part1/images/corellation1.png)  
 **Scatterplot:** The standard way to show the relationship between two continuous variables, each of which has its own axis.
 
@@ -68,6 +76,7 @@ will assume the relationships you show them to be causal (i.e. one causes the ot
 
 ![XY heatmap](/part1/images/corellation5.png)  
 **XY heatmap:** A good way of showing the patterns between 2 categories of data, less effective at showing fine differences in amounts.
+```
 
 #### Ranking
 Use where an item’s position in an ordered list is more important than its absolute or relative value. Don’t be afraid to highlight the points of interest.
@@ -124,16 +133,17 @@ Developed by German psychologists, the Gestalt laws describe how we interpret th
 ### Use of Colour
 When choosing colours in your charts its important to understand possible local significance that may be associated to a specific colour. For instance, in one country a colour may signify good luck, whereas in a different country, the same colour could be associated with a non-state armed group.[^footnote4]
 
-Where possible, special attention should be taken to ensure that chart remain readible when printed in grayscale and that they are colour blind safe, meaning that the chart should not be confusing for people with red-green colour blindness (an estimated 8% of men and 0.4% of women).
+Where possible, special attention should be taken to ensure that chart remain readable when printed in gray scale and that they are colour blind safe, meaning that the chart should not be confusing for people with red-green colour blindness (an estimated 8% of men and 0.4% of women).
 
-Adding to the previopus description of the role of color in perception, the use of colour in scales, particularly maps, typically takes one of the following three forms.[^footnote2]
-![Sequential](/part1/images/sequential-scale.png) **1. Continous(sequential) scales** used to show values going from low to high. Eg. population density per district.
+Adding to the previous description of the role of color in perception, the use of colour in scales, particularly maps, typically takes one of the following three forms.[^footnote2]  
 
-![Diverging](/part1/images/diverging-scale.png) **2. Diverging scales**  which visualise difference from a norm, such as [this example](https://storymaps.arcgis.com/stories/a371cdf9462b4dca9051b9f60a3185bc) showing location in St Vincent that showed both net inward and outward movements of people follwoing the eruption of a volcano.
+![Sequential](/part1/images/sequential-scale.png) **1. Continuos(sequential) scales** used to show values going from low to high. Eg. population density per district.
 
-![Qualititive](/part1/images/qualitative-scale.png)**3. Categorical(qualitative) scales**  
+![Diverging](/part1/images/diverging-scale.png) **2. Diverging scales**  which visualize difference from a norm, such as [this example](https://storymaps.arcgis.com/stories/a371cdf9462b4dca9051b9f60a3185bc) showing location in St Vincent that showed both net inward and outward movements of people following the eruption of a volcano.
 
-Two of the most common ways to respresent colour are RGB and CMYK. RGB, commonly used on websites can be shown as a hex number or RGB number. For printed materials where colour accuracy is important, CYMK is typically used. Not all software suppports the CMYK colour space, so if color accuracy is important you may want to use an Adobe tool such as Illustrator or In Design to apply finishing touches to print materials.[^footnote3]
+![Qualitative](/part1/images/qualitative-scale.png)**3. Categorical(qualitative) scales** used to distinguish different (non numeric) objects eg. a map using different shades for different countries.
+
+Two of the most common ways to respresent colour are RGB and CMYK. RGB, commonly used on websites can be shown as a hex number or RGB number. For printed materials where colour accuracy is important, CYMK is typically used. Not all software supports the CMYK colour space, so if color accuracy is important you may want to use an Adobe tool such as Illustrator or In Design to apply finishing touches to print materials.[^footnote3]
 
 ## Presenting
 Having a great data collection system, doing great analysis and creating effective visuals dont nescessarily lead to informing or changing decision by themselves. An important skill for IMOs that is often overlooked is the importance of verbal communication and presentation skills, be in in an in-person context such as a Cluster meeting or as is becoming more common, web-based calls. These meeting offer an important window of opportunity where, if commuicated clearly and in a convincing manner a good analysis can meet it's objectives.
@@ -141,25 +151,25 @@ Having a great data collection system, doing great analysis and creating effecti
 The following video is an example of effective communication, where the speaker shows a clear understanding of his audience(s), succinctly describes the context, the cause, the call for action (giving specific examples) and the urgency and scale.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PQNmfBY9HRo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-When presenting slides, try the following:
-***Only one idea per slide*** Having multiple ideas presented will distract your audience and confuse your key message.
+When presenting slides, try the following:  
+* ***Only one idea per slide*** Having multiple ideas presented will distract your audience and confuse your key message.  
 **Explain your point, then show slide.** Your audience can interpret either the visuals on screen or your spokenmessage. It is very difficult to both at the same time.  
 
-**Speaker is the star, not the slides.** The slides exist to aide the communication of the speaker, not to distract from it.
+* **Speaker is the star, not the slides.** The slides exist to aide the communication of the speaker, not to distract from it.
 
-**Never read from the slides.** It portrays a lack of preparedness and dilutes the communication rather than complimenting it.
+* **Never read from the slides.** It portrays a lack of preparedness and dilutes the communication rather than complimenting it.
 
-**Keep your hands free to move.** Not verbal expression can help the audience relate to the message and can help emphasise key messages.
+* **Keep your hands free to move.** Not verbal expression can help the audience relate to the message and can help emphasise key messages.
 
-**Tell a story to drive home your message** Conveying your message through anarrative is a powerful way to introduce your audience with your key points, for them to engage with the topic and to remember it.
+* **Tell a story to drive home your message** Conveying your message through anarrative is a powerful way to introduce your audience with your key points, for them to engage with the topic and to remember it.
 
-**Use photos and drawings on slides.** Photos can help bring an emotive human elememnt into otherwise abstract messages. Effective visuals can commuicate concepts that would be much harder to explain throughwritten or spoken word alone.
+* **Use photos and drawings on slides.** Photos can help bring an emotive human elememnt into otherwise abstract messages. Effective visuals can commuicate concepts that would be much harder to explain throughwritten or spoken word alone.
 
-**Face your audience, not your slides.** You are trying to convince, your audience, not the slides.
+* **Face your audience, not your slides.** You are trying to convince, your audience, not the slides.
 
-**Avoid complexity.**  Unnescessary complexity is a barrier for comprehension and can cause your audience to disengage with the topic.
+* **Avoid complexity.**  Unnescessary complexity is a barrier for comprehension and can cause your audience to disengage with the topic.
 
-**Rehearse, rehearse, rehearse.**
+* **Rehearse, rehearse, rehearse.**
 
 [^footnote1]: Adapted from the FTs [Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/). A similar graphics decision tree, based on the type and number of variables, is available at [Data-to-Viz.com](https://www.data-to-viz.com/#area)
 
