@@ -2,7 +2,7 @@
 Introduction....
 
 ## How to write about numbers
-When preparing to write up an analysis, it is important to reflect on the following considerations:  
+When preparing to write up an analysis, it is important to first consider the following:  
 **Determine your objectives.** Is the intention to inform or update a group on recent activities? Is it to provide insight on a particular topic? Is it to change peoples understanding or decisions on an particular operational issue? Is it to engage with people to gather feedback or to take action?  
 **Identify your target audience.** What group or groups are you targeting with the above objectives? You will need to tailor the language(non technical experts may not be familiar with technical language), length (shorter messages may be more suitable for general public consumption) and style (different audiences have different lenses in which they will consume and interpret your message).
 
@@ -41,6 +41,7 @@ Emphasize variations (+/-) from a fixed reference point. Typically the reference
 
 **Examples:** Showing the number of people entering or exiting a site over a period of time. Showing satisfaction with a component in a training. Demographics pyramid in a site, showing population breakdown by age and gender.
 
+```{dropdown} Deviation chart examples
 ![Diverging bar](/part1/images/deviation1.png)  
 **Diverging bar:** A simple standard bar chart that can handle both negative and positive magnitude values.
 
@@ -53,14 +54,14 @@ Emphasize variations (+/-) from a fixed reference point. Typically the reference
 ![Surplus/deficit filled line](/part1/images/deviation4.png)  
 **Surplus/deficit filled line:** The shaded area of these charts allows a balance to be shown – either against a
 baseline or between two series.
-
+```
 #### Correlation
 Show the relationship between two or more variables. Be mindful that, unless you tell them otherwise, many readers
 will assume the relationships you show them to be causal (i.e. one causes the other).
 
 **Examples:** Showing the relationships between areas of origin and current location of displacement.
 
-```{dropdown} Correlation
+```{dropdown} Correlation chart examples
 
 ![Scatterplot](/part1/images/corellation1.png)  
 **Scatterplot:** The standard way to show the relationship between two continuous variables, each of which has its own axis.
@@ -82,36 +83,49 @@ will assume the relationships you show them to be causal (i.e. one causes the ot
 Use where an item’s position in an ordered list is more important than its absolute or relative value. Don’t be afraid to highlight the points of interest.
 
 **Examples:** Comparing indicaotrs of need. Comparing displacement population figures across sites or districts.
-
+```{dropdown} Ranking chart examples
+```
 #### Distribution
 Show values in a dataset and how often they occur. The shape (or ‘skew’) of a distribution can be a memorable way of highlighting the lack of uniformity or equality in the data.
 
-**Examples:**
+**Examples:**  
+```{dropdown} Distribution chart examples
+```
 
 #### Change over time
 Give emphasis to changing trends. These can be short (intra-day) movements or extended series traversing decades or centuries: Choosing the correct time period is important to provide suitable context for the reader.  
 
-**Examples:**
+**Examples:**  
+```{dropdown} Change over time chart examples
+```
 
 #### Magnitude
 Show size comparisons. These can be relative (just being able to see larger/bigger) or absolute (need to see fine differences). Usually these show a ‘counted’ number (for example, barrels, dollars or people) rather than a calculated rate or per cent.  
 
-**Examples:**
+**Examples:**  
+```{dropdown} Magnitude chart examples
+```
 
 #### Part-to-whole
 Show how a single entity can be broken down into its component elements. If the reader’s interest is solely in the size of the components, consider a magnitude-type chart instead.
 
-**Examples:**
+**Examples:**  
+```{dropdown} Part-to-whole chart examples
+```
 
 #### Spatial
 Aside from locator maps only used when precise locations or geographical patterns in data are more important to the reader than anything else.
 
 **Examples:**
+```{dropdown} Spatial chart examples
+```
 
 #### Flow
 Show the reader volumes or intensity of movement between two or more states or conditions. These might be logical sequences or geographical locations.
 
-**Examples:**
+**Examples:**  
+```{dropdown} Flow chart examples
+```
 
 ### Visual Design Principles
 Developed by German psychologists, the Gestalt laws describe how we interpret the complex world around us. They explain why a series of flashing lights appear to be moving. And why we read a sentence like this, notli ket his ort hat. Understanding these "laws" can be useful in making sure your message is being coveyed effectively.
@@ -137,21 +151,22 @@ Where possible, special attention should be taken to ensure that chart remain re
 
 Adding to the previous description of the role of color in perception, the use of colour in scales, particularly maps, typically takes one of the following three forms.[^footnote2]  
 
-![Sequential](/part1/images/sequential-scale.png) **1. Continuos(sequential) scales** used to show values going from low to high. Eg. population density per district.
+1. ![Sequential](/part1/images/sequential-scale.png) **Continuous(sequential) scales** used to show values going from low to high. Eg. population density per district.
 
-![Diverging](/part1/images/diverging-scale.png) **2. Diverging scales**  which visualize difference from a norm, such as [this example](https://storymaps.arcgis.com/stories/a371cdf9462b4dca9051b9f60a3185bc) showing location in St Vincent that showed both net inward and outward movements of people following the eruption of a volcano.
+2. ![Diverging](/part1/images/diverging-scale.png) **Diverging scales**  which visualize difference from a norm, such as [this example](https://storymaps.arcgis.com/stories/a371cdf9462b4dca9051b9f60a3185bc) showing location in St Vincent that showed both net inward and outward movements of people following the eruption of a volcano.
 
-![Qualitative](/part1/images/qualitative-scale.png)**3. Categorical(qualitative) scales** used to distinguish different (non numeric) objects eg. a map using different shades for different countries.
+3. ![Qualitative](/part1/images/qualitative-scale.png)**Categorical(qualitative) scales** used to distinguish different (non numeric) objects eg. a map using different shades for different countries.
 
 Two of the most common ways to respresent colour are RGB and CMYK. RGB, commonly used on websites can be shown as a hex number or RGB number. For printed materials where colour accuracy is important, CYMK is typically used. Not all software supports the CMYK colour space, so if color accuracy is important you may want to use an Adobe tool such as Illustrator or In Design to apply finishing touches to print materials.[^footnote3]
 
 ## Presenting
-Having a great data collection system, doing great analysis and creating effective visuals dont nescessarily lead to informing or changing decision by themselves. An important skill for IMOs that is often overlooked is the importance of verbal communication and presentation skills, be in in an in-person context such as a Cluster meeting or as is becoming more common, web-based calls. These meeting offer an important window of opportunity where, if commuicated clearly and in a convincing manner a good analysis can meet it's objectives.
+Having a great data collection system, doing great analysis and creating effective visuals dont nescessarily lead to informing or changing decision by themselves. An important skill for IMOs that is often overlooked is the importance of verbal communication and presentation skills, be in in an in-person context such as a Cluster meeting or as is becoming more common, web-based calls. These meeting offer an important window of opportunity where, if communicated clearly and in a convincing manner a good analysis can meet it's objectives.
 
 The following video is an example of effective communication, where the speaker shows a clear understanding of his audience(s), succinctly describes the context, the cause, the call for action (giving specific examples) and the urgency and scale.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PQNmfBY9HRo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-When presenting slides, try the following:  
+
+When presenting slides, consider the following:  
 * ***Only one idea per slide*** Having multiple ideas presented will distract your audience and confuse your key message.  
 **Explain your point, then show slide.** Your audience can interpret either the visuals on screen or your spokenmessage. It is very difficult to both at the same time.  
 
@@ -167,7 +182,7 @@ When presenting slides, try the following:
 
 * **Face your audience, not your slides.** You are trying to convince, your audience, not the slides.
 
-* **Avoid complexity.**  Unnescessary complexity is a barrier for comprehension and can cause your audience to disengage with the topic.
+* **Avoid complexity.**  Unnecessary complexity is a barrier for comprehension and can cause your audience to disengage with the topic.
 
 * **Rehearse, rehearse, rehearse.**
 
