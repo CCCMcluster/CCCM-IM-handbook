@@ -82,8 +82,24 @@ will assume the relationships you show them to be causal (i.e. one causes the ot
 #### Ranking
 Use where an item’s position in an ordered list is more important than its absolute or relative value. Don’t be afraid to highlight the points of interest.
 
-**Examples:** Comparing indicaotrs of need. Comparing displacement population figures across sites or districts.
+**Examples:** Comparing indicators of need. Comparing displacement population figures across sites or districts.
 ```{dropdown} Ranking chart examples
+![Histogram](/part1/images/ranking1.png)  
+**Histogram:** The standard way to show a statistical distribution - keep the gaps between columns small to highlight the ‘shape’ of the data.
+
+![Dot plot](/part1/images/ranking2.png)  
+**Dot plot:** A simple way of showing the change or range (min/max) of data across multiple categories.
+
+![Box plot](/part1/images/ranking3.png)  
+**Box plot:** Summarise multiple distributions by showing the median (centre) and range of the data.
+
+![Population pyramid](/part1/images/ranking4.png)  
+**Population pyramid:** A standard way for showing the age and sex breakdown of a population distribution;
+effectively, back to back histograms.
+
+![Beeswarm](/part1/images/ranking5.png)  
+**Beeswarm:** Use to emphasise individual points in a distribution. Points can be sized to an additional variable.
+Best with medium sized datasets.
 ```
 #### Distribution
 Show values in a dataset and how often they occur. The shape (or ‘skew’) of a distribution can be a memorable way of highlighting the lack of uniformity or equality in the data.
@@ -128,7 +144,7 @@ Show the reader volumes or intensity of movement between two or more states or c
 ```
 
 ### Visual Design Principles
-Developed by German psychologists, the Gestalt laws describe how we interpret the complex world around us. They explain why a series of flashing lights appear to be moving. And why we read a sentence like this, notli ket his ort hat. Understanding these "laws" can be useful in making sure your message is being coveyed effectively.
+Developed by German psychologists, the Gestalt laws describe how we interpret the complex world around us. They explain why a series of flashing lights appear to be moving. And why we read a sentence like this, *notli ket his ort hat*. Understanding these "laws" can be useful in making sure your message is being conveyed effectively.
 
 #### Law of Similarity.
 ...
@@ -160,7 +176,7 @@ Adding to the previous description of the role of color in perception, the use o
 Two of the most common ways to respresent colour are RGB and CMYK. RGB, commonly used on websites can be shown as a hex number or RGB number. For printed materials where colour accuracy is important, CYMK is typically used. Not all software supports the CMYK colour space, so if color accuracy is important you may want to use an Adobe tool such as Illustrator or In Design to apply finishing touches to print materials.[^footnote3]
 
 ## Presenting
-Having a great data collection system, doing great analysis and creating effective visuals dont nescessarily lead to informing or changing decision by themselves. An important skill for IMOs that is often overlooked is the importance of verbal communication and presentation skills, be in in an in-person context such as a Cluster meeting or as is becoming more common, web-based calls. These meeting offer an important window of opportunity where, if communicated clearly and in a convincing manner a good analysis can meet it's objectives.
+Having a great data collection system, doing great analysis and creating effective visuals don't necessarily lead to informing or changing decision by themselves. An important skill for IMOs that is often overlooked is the importance of verbal communication and presentation skills, be in in an in-person context such as a Cluster meeting or as is becoming more common, web-based calls. These meeting offer an important window of opportunity where, if communicated clearly and in a convincing manner a good analysis can meet it's objectives.
 
 The following video is an example of effective communication, where the speaker shows a clear understanding of his audience(s), succinctly describes the context, the cause, the call for action (giving specific examples) and the urgency and scale.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PQNmfBY9HRo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -168,7 +184,7 @@ The following video is an example of effective communication, where the speaker 
 
 When presenting slides, consider the following:  
 * ***Only one idea per slide*** Having multiple ideas presented will distract your audience and confuse your key message.  
-**Explain your point, then show slide.** Your audience can interpret either the visuals on screen or your spokenmessage. It is very difficult to both at the same time.  
+**Explain your point, then show slide.** Your audience can interpret either the visuals on screen or your spoken message. It is very difficult to both at the same time.  
 
 * **Speaker is the star, not the slides.** The slides exist to aide the communication of the speaker, not to distract from it.
 
@@ -176,9 +192,9 @@ When presenting slides, consider the following:
 
 * **Keep your hands free to move.** Not verbal expression can help the audience relate to the message and can help emphasise key messages.
 
-* **Tell a story to drive home your message** Conveying your message through anarrative is a powerful way to introduce your audience with your key points, for them to engage with the topic and to remember it.
+* **Tell a story to drive home your message** Conveying your message through a narrative is a powerful way to introduce your audience with your key points, for them to engage with the topic and to remember it.
 
-* **Use photos and drawings on slides.** Photos can help bring an emotive human elememnt into otherwise abstract messages. Effective visuals can commuicate concepts that would be much harder to explain throughwritten or spoken word alone.
+* **Use photos and drawings on slides.** Photos can help bring an emotive human element into otherwise abstract messages. Effective visuals can communicate concepts that would be much harder to explain through written or spoken word alone.
 
 * **Face your audience, not your slides.** You are trying to convince, your audience, not the slides.
 
