@@ -84,28 +84,48 @@ Use where an item’s position in an ordered list is more important than its abs
 
 **Examples:** Comparing indicators of need. Comparing displacement population figures across sites or districts.
 ```{dropdown} Ranking chart examples
-![Histogram](/part1/images/ranking1.png)  
-**Histogram:** The standard way to show a statistical distribution - keep the gaps between columns small to highlight the ‘shape’ of the data.
+![Ordered bar](/part1/images/ranking1.png)  
+**Histogram:** Standard bar charts display the ranks of values much more easily when sorted into order..
 
-![Dot plot](/part1/images/ranking2.png)  
-**Dot plot:** A simple way of showing the change or range (min/max) of data across multiple categories.
+![Ordered column](/part1/images/ranking2.png)  
+**Ordered column:** Same as above but more suited to categories of dates or with short labels.
 
-![Box plot](/part1/images/ranking3.png)  
-**Box plot:** Summarise multiple distributions by showing the median (centre) and range of the data.
+![Ordered proportional symbol](/part1/images/ranking3.png)  
+**Ordered proportional symbol:** Use when there are big variations between values and/or seeing tne differences
+between data is not so important..
 
-![Population pyramid](/part1/images/ranking4.png)  
-**Population pyramid:** A standard way for showing the age and sex breakdown of a population distribution;
-effectively, back to back histograms.
+![Slope](/part1/images/ranking4.png)  
+**Slope:** Perfect for showing how ranks have changed over time or vary betweencategories.
 
-![Beeswarm](/part1/images/ranking5.png)  
-**Beeswarm:** Use to emphasise individual points in a distribution. Points can be sized to an additional variable.
-Best with medium sized datasets.
+![Lollipop](/part1/images/ranking5.png)  
+**Lollipop:** Lollipops draw more attention to the data value than standard bar/column and can also show rank and
+value ef effectively.
+
+![Bump](/part1/images/ranking6.png)  
+**Bump:** Effective for showing changing rankings across multiple dates. For large datasets,consider grouping lines
+using colour.
 ```
 #### Distribution
 Show values in a dataset and how often they occur. The shape (or ‘skew’) of a distribution can be a memorable way of highlighting the lack of uniformity or equality in the data.
 
 **Examples:**  
 ```{dropdown} Distribution chart examples
+![Histogram](/part1/images/distribution1.png)  
+**Histogram:** The standard way to show a statistical distribution - keep the gaps between columns small to highlight the ‘shape’ of the data.
+
+![Dot plot](/part1/images/distribution2.png)  
+**Dot plot:** A simple way of showing the change or range (min/max) of data across multiple categories.
+
+![Box plot](/part1/images/distribution3.png)  
+**Box plot:** Summarise multiple distributions by showing the median (centre) and range of the data.
+
+![Population pyramid](/part1/images/distribution4.png)  
+**Population pyramid:** A standard way for showing the age and sex breakdown of a population distribution;
+effectively, back to back histograms.
+
+![Beeswarm](/part1/images/distribution5.png)  
+**Beeswarm:** Use to emphasise individual points in a distribution. Points can be sized to an additional variable.
+Best with medium sized datasets.
 ```
 
 #### Change over time
@@ -113,6 +133,12 @@ Give emphasis to changing trends. These can be short (intra-day) movements or ex
 
 **Examples:**  
 ```{dropdown} Change over time chart examples
+![Line](/part1/images/changeovertime1.png)  
+**Line:** The standard way to show a changing time series. If data are irregular, consider markers to represent
+data points.
+
+![Column](/part1/images/changeovertime2.png)  
+**Column:** Columns work well for showing change over time - but usually best with only one series of data at a time.
 ```
 
 #### Magnitude
