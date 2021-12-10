@@ -139,6 +139,33 @@ data points.
 
 ![Column](/part1/images/changeovertime2.png)  
 **Column:** Columns work well for showing change over time - but usually best with only one series of data at a time.
+
+![Column and timeline](/part1/images/changeovertime3.png)  
+**Column and timeline:** A good way of showing the relationship over time between an amount (columns) and a rate (line).
+
+![Slope](/part1/images/changeovertime4.png)  
+**Slope:** Good for showing changing data as long as the data can be simplifed into 2 or 3 points without missing a key part of story.
+
+![Area chart](/part1/images/changeovertime5.png)  
+**Area chart:** Use with care – these are good at showingchanges to total, but seeing change in components can be very difficult.
+
+![Fan chart (projections)](/part1/images/changeovertime6.png)  
+**Fan chart (projections):** Use to show the uncertainty in future projections - usually this grows the further forward to projection.
+
+![Connected scatterplot](/part1/images/changeovertime7.png)  
+**Connected scatterplot:** A good way of showing changing data for two variables whenever there is a relatively clear pattern of progression.
+
+![Calendar heatmap](/part1/images/changeovertime8.png)  
+**Calendar heatmap:** A great way of showing temporal patterns (daily, weekly, monthly) – at the expense of showing precision in quantity.
+
+![Priestley timeline](/part1/images/changeovertime9.png)  
+**Priestley timeline:** Great when date and duration are key elements of the story in the data.
+
+![Circle timeline](/part1/images/changeovertime10.png)  
+**Circle timeline:** Good for showing discrete values of varying size across multiple categories (eg earthquakes by continent).
+
+![Streamgraph](/part1/images/changeovertime11.png)  
+**Streamgraph:** A type of area chart; use when seeing changes in proportions over time is more important than individual values.
 ```
 
 #### Magnitude
@@ -146,6 +173,29 @@ Show size comparisons. These can be relative (just being able to see larger/bigg
 
 **Examples:**  
 ```{dropdown} Magnitude chart examples
+![Streamgraph](/part1/images/changeovertime11.png)  
+**Streamgraph:** A type of area chart; use when seeing changes in proportions over time is more important than individual values.
+
+![Bar](/part1/images/magnitude1.png)  
+**Bar:** See above. Good when the data are not time series and labels have long category names.
+
+![Paired column](/part1/images/magnitude2.png)  
+**Paired column:** As per standard column but allows for multiple series. Can become tricky to read with more than 2 series.
+
+![Marimekko](/part1/images/magnitude3.png)  
+**Marimekko:** A good way of showing the size and proportion of data at the same time – as long as the data are not too complicated.
+
+![Isotype (pictogram)](/part1/images/magnitude4.png)  
+**Isotype (pictogram):** Excellent solution in some instances – use only with whole numbers (do not slice of an arm to represent a decimal).
+
+![Radar](/part1/images/magnitude5.png)  
+**Radar:**A space-efficient way of showing value of multiple variables– but make sure they are organised in a way  that makes sense to reader.
+
+![Parallel coordinates](/part1/images/magnitude6.png)  
+**Parallel coordinates:** A type of area chart; use when seeing changes in proportions over time is more important than individual values.
+
+![Grouped symbol](/part1/images/magnitude7.png)  
+**Grouped symbol:** An alternative to bar/column charts when being able to count data or highlight individual elements is useful.
 ```
 
 #### Part-to-whole
@@ -153,6 +203,26 @@ Show how a single entity can be broken down into its component elements. If the 
 
 **Examples:**  
 ```{dropdown} Part-to-whole chart examples
+![Stacked column/bar](/part1/images/parttowhole1.png)  
+**Stacked column/bar:**A simple way of showing part-to-whole relationships but can be difficult to read with more than a few components.
+
+![Radar](/part1/images/parttowhole2.png)  
+**Radar:**A space-efficient way of showing value of multiple variables– but make sure they are organised in a way  that makes sense to reader.
+
+![Donut](/part1/images/parttowhole3.png)  
+**Radar:**Similar to a pie chart – but the centre can be a good way of making space to include more information bout the data (eg total).
+
+![Treemap](/part1/images/parttowhole4.png)  
+**Treemap:**Use for hierarchical part-to-whole relationships; can be difficult to read when there are many small segments.
+
+![Gridplot](/part1/images/parttowhole5.png)  
+**Gridplot:**Good for showing % information, they work best when used on whole numbers and work well in small multiple layout form.
+
+![Venn](/part1/images/parttowhole6.png)  
+**Venn:**Generally only used for schematic representation.
+
+![Waterfall](/part1/images/parttowhole7.png)  
+**Waterfall:**Can be useful for showing part-to-whole relationships where some of the components are negative.
 ```
 
 #### Spatial
