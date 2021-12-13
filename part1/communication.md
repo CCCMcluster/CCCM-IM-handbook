@@ -1,5 +1,8 @@
 # Communication
-Introduction....
+```{warning}
+This chapter is a first draft and may be subject to change.
+```
+Communication may be the final step in the IMs workflow but is by no means the least important. The best analysis, using the best data collection methods and tools are worthless if the communication of these findings are insufficient to inform decisions.
 
 ## How to write about numbers
 When preparing to write up an analysis, it is important to first consider the following:  
@@ -7,19 +10,19 @@ When preparing to write up an analysis, it is important to first consider the fo
 **Identify your target audience.** What group or groups are you targeting with the above objectives? You will need to tailor the language(non technical experts may not be familiar with technical language), length (shorter messages may be more suitable for general public consumption) and style (different audiences have different lenses in which they will consume and interpret your message).
 
 There are seven basic principles about writing about numbers: [^footnote5]  
-1. **Establish the context for your facts.**  
+1. **Establish the context for your facts.**  Your text should convey the "who, what, when and where" in which to ground your facts. Don't just assume that the audience has the same contextual understanding.
 
-2. **Pick simple, plausible examples.**  
+2. **Pick simple, plausible examples.**  Using examples are a good way to transform abstract numbers to more tangible and relatable to the audiences experiences or understanding. An example of this could be used when describing density of the population of Rohingya refugees in Cox's Bazar, Bangladesh, where comparing the population number and area of the camp can be compared to that of a comparison city familiar to the audience. 
 
 3. **Select the right tools and media  for the job.** The three basic tools for presenting quantitative information: prose, tables and charts. Choosing the most appropriate tool (or mix of them) and understanding their strengths and weaknesses, is important. Equally important is to use the most appropriate mix of media. Eg. Reports, interactive dashboards, infographics, video, social media, events.  
 
 4. **Defining your terms (and be careful with jargon).** Unnecessary use of of acronyms and jargon will likely exclude parts of your audience or cause misunderstanding due to unshared understanding of concepts. If acronyms must be used, it is good practice to show them alongside their long form at the point where they first appear.  
 
-5. **Reporting and interpreting.**  
+5. **Reporting and interpreting.**  Describing the numbers around an issue should be support by an explanation of "what does that mean" that explains why that number is important or relevant.
 
-6. **Specify direction and magnitude of an association.**  
+6. **Specify magnitude and direction of an association.**  Don't just say "there are more displaced people in camp A than in camp B", provide a number quantifying *how* different it is. When explaining the relationship between variables it is also important to be clear on the direction of that relationship. For example "IDPs in Camp A had a lower number of food complaints compared to the previous month".
 
-7. **Summarize patterns.**
+7. **Summarize patterns.** Rather than presenting a big table or graph showing the data and letting the viewer figure things out for themself it is good to summarize and highlight patterns that contribute to the analysis and message.
 
 ```{tip}
 - Tell a story
@@ -29,7 +32,7 @@ There are seven basic principles about writing about numbers: [^footnote5]
 ```
 
 ## Data Visualization
-...
+Communicating with visuals can an effective way to communicate a message, either on its own or alongside accompanying text. Good visuals can help engaging the audience and quite often are a good way to convey complex information in a simpler form.
 
 ### Choosing the right charts
 When visualising your data, the choice of chart depends on the quantity and type of data you want to represent; the relationships in that data, and ultimately, whether or not the graph clearly communicates your message.[^footnote1]
@@ -203,25 +206,24 @@ Show how a single entity can be broken down into its component elements. If the 
 
 **Examples:**  
 ```{dropdown} Part-to-whole chart examples
-![Stacked column/bar](/part1/images/parttowhole1.png)  
-**Stacked column/bar:**A simple way of showing part-to-whole relationships but can be difficult to read with more than a few components.
 
-![Radar](/part1/images/parttowhole2.png)  
-**Radar:**A space-efficient way of showing value of multiple variables– but make sure they are organised in a way  that makes sense to reader.
+![Stacked column or bar](/part1/images/parttowhole1.png)  
+**Stacked column or bar:** A simple way of showing part-to-whole relationships but can be difficult to read with more than a few components.
 
-![Donut](/part1/images/parttowhole3.png)  
+
+![Donut](/part1/images/parttowhole2.png)  
 **Radar:**Similar to a pie chart – but the centre can be a good way of making space to include more information bout the data (eg total).
 
-![Treemap](/part1/images/parttowhole4.png)  
+![Treemap](/part1/images/parttowhole3.png)  
 **Treemap:**Use for hierarchical part-to-whole relationships; can be difficult to read when there are many small segments.
 
-![Gridplot](/part1/images/parttowhole5.png)  
+![Gridplot](/part1/images/parttowhole4.png)  
 **Gridplot:**Good for showing % information, they work best when used on whole numbers and work well in small multiple layout form.
 
-![Venn](/part1/images/parttowhole6.png)  
+![Venn](/part1/images/parttowhole5.png)  
 **Venn:**Generally only used for schematic representation.
 
-![Waterfall](/part1/images/parttowhole7.png)  
+![Waterfall](/part1/images/parttowhole6.png)  
 **Waterfall:**Can be useful for showing part-to-whole relationships where some of the components are negative.
 ```
 
@@ -230,6 +232,23 @@ Aside from locator maps only used when precise locations or geographical pattern
 
 **Examples:**
 ```{dropdown} Spatial chart examples
+![Basic choropleth](/part1/images/spatial1.png)  
+**Basic choropleth:**The standard approach for putting data on a map – should always be rates rather than totals and use a sensible base geography.
+
+![Proportional symbol](/part1/images/spatial2.png)  
+**Proportional symbol:** Use for totals rather than rates – be wary that small differences in data will be hard to see.
+
+![Flowmap](/part1/images/spatial3.png)  
+**Flowmap:**For showing unambiguous movement across a map.
+
+![Contour map](/part1/images/spatial4.png)  
+**Contour map:** For showing areas of equal value on a map. Can use deviation colour schemes for showing +/- values 
+
+![Dot density](/part1/images/spatial5.png)  
+**Dot density:** Used to show the location of individual events/locations – make sure to annotate any patterns the reader should see.
+
+![Heatmap](/part1/images/spatial6.png)  
+**Heatmap:**Can be useful for showing part-to-whole relationships where some of the components are negative.
 ```
 
 #### Flow
@@ -237,23 +256,45 @@ Show the reader volumes or intensity of movement between two or more states or c
 
 **Examples:**  
 ```{dropdown} Flow chart examples
+
+![Sankey](/part1/images/flow1.png)  
+**Sankey:**Can be useful for showing part-to-whole relationships where some of the components are negative.
+
+![Waterfall](/part1/images/flow2.png)  
+**Waterfall:**Can be useful for showing part-to-whole relationships where some of the components are negative.
+
+![Network](/part1/images/flow3.png)  
+**Network:**Can be useful for showing part-to-whole relationships where some of the components are negative.
 ```
 
 ### Visual Design Principles
 Developed by German psychologists, the Gestalt laws describe how we interpret the complex world around us. They explain why a series of flashing lights appear to be moving. And why we read a sentence like this, *notli ket his ort hat*. Understanding these "laws" can be useful in making sure your message is being conveyed effectively.
 
-#### Law of Similarity.
-...
-#### Law of Pragnanz
-...
+#### Law of Similarity
+![Law of Similarity](/part1/images/lawofsimilarity.png)  
+The human eye tends to perceive similar elements in a design as a complete picture, shape, or group, even if those elements are separated.
+Examples of this could be the use of symbols to signify conflict on a map or the use of colour in dots in a scatter plot that are of the same category.
+
+#### Law of Prägnanz
+![Law of Pragnanz](/part1/images/lawofpragnanz.png) 
+People will perceive and interpret ambiguous or complex images as the simplest form possible, because it is the interpretation that requires the least cognitive effort of us. Charts should aim to be as complex as necessary and as simple as possible to convey their meaning. [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) calls this the data-ink ratio.
+
 #### Law of Proximity
-...
+![Law of Proximity](/part1/images/lawofproximity.png)  
+Objects that are near, or proximate to each other, tend to be grouped together.  
+An example of this could be a grouped bar chart where for the funding for each year is grouped by donor.
+
 #### Law of Continuity
-...
-#### Law of Closure
-...
+![Law of Proximity](/part1/images/lawofcontinuity.png)  
+Elements that are visually connected are perceived as more related than elements with no connection.
+This principle is visible when using a line graph to connect point values.
+
 #### Law of Common Region
-...
+![Law of Common Region](/part1/images/lawofcommonregion.png)  
+Elements tend to be perceived into groups if they are sharing an area with a clearly defined boundary.
+This law is perhaps most commonly used in maps, where administrative boundaries are shown with solid or dashed lines.
+
+When presenting static charts a useful tip is to use [annotation](https://en.wikipedia.org/wiki/Annotation) to guide the viewer through the graph, to put the data in context and to highlight the key relevant facts. [^footnote6]
 
 
 ### Use of Colour
@@ -271,6 +312,7 @@ Adding to the previous description of the role of color in perception, the use o
 
 Two of the most common ways to respresent colour are RGB and CMYK. RGB, commonly used on websites can be shown as a hex number or RGB number. For printed materials where colour accuracy is important, CYMK is typically used. Not all software supports the CMYK colour space, so if color accuracy is important you may want to use an Adobe tool such as Illustrator or In Design to apply finishing touches to print materials.[^footnote3]
 
+
 ## Presenting
 Having a great data collection system, doing great analysis and creating effective visuals don't necessarily lead to informing or changing decision by themselves. An important skill for IMOs that is often overlooked is the importance of verbal communication and presentation skills, be in in an in-person context such as a Cluster meeting or as is becoming more common, web-based calls. These meeting offer an important window of opportunity where, if communicated clearly and in a convincing manner a good analysis can meet it's objectives.
 
@@ -279,7 +321,8 @@ The following video is an example of effective communication, where the speaker 
 
 
 When presenting slides, consider the following:  
-* ***Only one idea per slide*** Having multiple ideas presented will distract your audience and confuse your key message.  
+* **Only one idea per slide** Having multiple ideas presented will distract your audience and confuse your key message. 
+ 
 **Explain your point, then show slide.** Your audience can interpret either the visuals on screen or your spoken message. It is very difficult to both at the same time.  
 
 * **Speaker is the star, not the slides.** The slides exist to aide the communication of the speaker, not to distract from it.
@@ -307,3 +350,5 @@ When presenting slides, consider the following:
 [^footnote4]: ACAPS have a great guide on the [Use of Colour in Data Display](https://www.acaps.org/use-colour-data-display)
 
 [^footnote5]: Adapted from The Chicago Guide to Writing about Numbers, by Jane E. Miller
+
+[^footnote6]: Data journalism put increasing emphasis on the need for a good annotation layer, as can be seen by this article from the [Financial Times](https://www.ft.com/content/4743ce96-e4bf-11e7-97e2-916d4fbac0da)
