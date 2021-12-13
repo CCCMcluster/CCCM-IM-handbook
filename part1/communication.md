@@ -285,7 +285,7 @@ Objects that are near, or proximate to each other, tend to be grouped together.
 An example of this could be a grouped bar chart where for the funding for each year is grouped by donor.
 
 #### Law of Continuity
-![Law of Proximity](/part1/images/lawofcontinuity.png)  
+![Law of Continuity](/part1/images/lawofcontinuity.png)  
 Elements that are visually connected are perceived as more related than elements with no connection.
 This principle is visible when using a line graph to connect point values.
 
@@ -320,10 +320,11 @@ The following video is an example of effective communication, where the speaker 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PQNmfBY9HRo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 When presenting slides, consider the following:  
 * **Only one idea per slide** Having multiple ideas presented will distract your audience and confuse your key message. 
- 
-**Explain your point, then show slide.** Your audience can interpret either the visuals on screen or your spoken message. It is very difficult to both at the same time.  
+
+* **Explain your point, then show slide.** Your audience can interpret either the visuals on screen or your spoken message. It is very difficult to both at the same time.  
 
 * **Speaker is the star, not the slides.** The slides exist to aide the communication of the speaker, not to distract from it.
 
