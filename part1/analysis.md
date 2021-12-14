@@ -1,7 +1,7 @@
 # Analysis
 ...
 
-### The Analysis Spectrum
+## The Analysis Spectrum
 ...
 
 ## Understanding Bias

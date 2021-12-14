@@ -276,7 +276,7 @@ The human eye tends to perceive similar elements in a design as a complete pictu
 Examples of this could be the use of symbols to signify conflict on a map or the use of colour in dots in a scatter plot that are of the same category.
 
 #### Law of Prägnanz
-![Law of Pragnanz](/part1/images/lawofpragnanz.png) 
+![Law of Pragnanz](/part1/images/lawofpragnanz.png)  
 People will perceive and interpret ambiguous or complex images as the simplest form possible, because it is the interpretation that requires the least cognitive effort of us. Charts should aim to be as complex as necessary and as simple as possible to convey their meaning. [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) calls this the data-ink ratio.
 
 #### Law of Proximity
