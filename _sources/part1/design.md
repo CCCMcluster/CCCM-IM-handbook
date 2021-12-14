@@ -1,7 +1,7 @@
 # Design & Acquire
 
 ```{epigraph}
-Any information that doesn not inform or change an decision is worthless.
+Any information that doesn't not inform or change an decision is worthless.
 
 -- Sam L. Savage
 ```
@@ -10,3 +10,7 @@ Any information that doesn not inform or change an decision is worthless.
 - secondary data review vs primary data
 - formulating the questions that need answering.
 - create a data analysis plan
+- common data sources
+- CODs
+- methods - KI. FGD
+- sampling
