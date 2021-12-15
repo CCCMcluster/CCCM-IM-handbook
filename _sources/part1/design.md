@@ -14,3 +14,13 @@ Any information that doesn't not inform or change an decision is worthless.
 - CODs
 - methods - KI. FGD
 - sampling
+
+## Methodologies
+- KI
+- FGD
+- Observations
+- Non traditional sources
+- Representativeness
+
+### Sampling
+...
