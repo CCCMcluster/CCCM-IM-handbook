@@ -1,19 +1,36 @@
 # What is Information Management?
+..
 
-- profiles
-- skills and attitudes
-- responsibilities
-- IM workflow -collection, processing (data quality, cleaning, management), analysis, dissemination
+## Profiles
+..
 
-# Collection
+## Skills and attitudes
+...
+
+```{figure} ./images/dataskillsframework.png
+---
+height: 500px
+name: data-skills-framework
+---
+A Data Skills Framework by [the ODI](https://theodi.org/article/data-skills-framework/)
+```
+## Responsibilities
+- The core cluster functions and how they relate to IM.
+
+## IM workflow
+...
+
+### Collection
 
 This section discusses:
 - Secondary data review
 - Primary data collection
 
+### Processing
+...
 
+### Analysis
+...
 
-````{margin} a test
-just a test to see if this works and to see how far the text goes across the screen
-````
-
+### Dissemination
+...

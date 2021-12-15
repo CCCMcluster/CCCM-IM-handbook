@@ -1,27 +1,36 @@
 # What is Information Management?
+..
 
-A sample note:
+## Profiles
+..
 
-```{note}
-Here is a note
+## Skills and attitudes
+...
+
+```{figure} ./images/dataskillsframework.png
+---
+height: 500px
+name: data-skills-framework
+---
+A Data Skills Framework by [the ODI](https://theodi.org/article/data-skills-framework/)
 ```
+## Responsibilities
+- The core cluster functions and how they relate to IM.
 
-# Collection
+## IM workflow
+...
+
+### Collection
 
 This section discusses:
 - Secondary data review
 - Primary data collection
 
-# Processing 
-This section discusses:
-- Data quality, cleaning, management.
+### Processing
+...
 
-````{margin} a test
-just a test to see if this works and to see how far the text goes across the screen
-````
+### Analysis
+...
 
-````{margin}
-```{note}
-Here's my note!
-```
-````
+### Dissemination
+...

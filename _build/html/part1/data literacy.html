@@ -310,18 +310,6 @@
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#methodologies">
-   Methodologies
-  </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#sampling">
-     Sampling
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#im-tips">
    IM tips
   </a>
@@ -340,14 +328,21 @@
   <div class="section" id="data-literacy">
 <h1>Data Literacy<a class="headerlink" href="#data-literacy" title="Permalink to this headline">¶</a></h1>
 <p>The purpose of this chapter is to introduce the reader to the concept of data, what it is, how it used in humanitarian response and its relevance in the role of information management. This chapter forms an important basis for subsequent chapters as it aims to clearly describe key concepts around data to ensure their clear and shared understanding. This shared vocabulary is vital for the collaboration needed at the various stages of the data’s lifecycle. This chapter is primarily aimed at IM’s but is also relevant to any humanitarian involved to any degree in evidence-based decision making.<a class="footnote-reference brackets" href="#footnote1" id="id1">1</a></p>
-<p><img alt="what it means" src="../_images/idontthinkitmeanswhatyouthinkitmeans.jpg" /></p>
+<div class="figure align-default" id="means">
+<a class="reference internal image-reference" href="../_images/idontthinkitmeanswhatyouthinkitmeans.jpg"><img alt="../_images/idontthinkitmeanswhatyouthinkitmeans.jpg" src="../_images/idontthinkitmeanswhatyouthinkitmeans.jpg" style="width: 500px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 2 </span><span class="caption-text">A shared understanding of terms is important for engagement around data</span><a class="headerlink" href="#means" title="Permalink to this image">¶</a></p>
+</div>
 <div class="section" id="what-is-data">
 <h2>What is data?<a class="headerlink" href="#what-is-data" title="Permalink to this headline">¶</a></h2>
-<p>Data is the physical representation of information in a manner suitable for communication, interpretation, or processing by human beings or by automatic means.<a class="footnote-reference brackets" href="#footnote2" id="id2">2</a> It can be structured or unstructured, can come in many different forms (human-readable or machine-readable) and can come from any number of sources with using any number of methods. While the terms data, information and knowledge are quite often used interchangeable it is helpful to think of information as data integrated into context, and knowledge as a collection of information, processed in a way that provides learning.</p>
+<p>Data is the physical representation of information in a manner suitable for communication, interpretation, or processing by human beings or by automatic means.<a class="footnote-reference brackets" href="#footnote2" id="id2">2</a> It can be structured or unstructured, can come in many different forms (human-readable or machine-readable) and can come from any number of sources, using any number of methods. While the terms <em>data</em>, <em>information</em> and <em>knowledge</em> are quite often used interchangeably it is helpful to think of information as data integrated into context, and knowledge as a collection of information, processed in a way that provides learning.</p>
 </div>
 <div class="section" id="what-does-it-look-like">
 <h2>What does it look like?<a class="headerlink" href="#what-does-it-look-like" title="Permalink to this headline">¶</a></h2>
-<p>Data is all around us. Look at your desk and pick an item. Describe the attributes of that item. Perhaps you can describe the items colour, its length, its width, its texture, the materials its constructed from or how effective it is for your work. Data is all around us but is usually messy and unstructured. Processing this information into a structure that can provide sense is at the core of IM. This ‘sense-making’ is often done using different approaches - an experienced camp manager may decide to walk into a new camp, walk around it observing it, deciding on what actions they need to prioritize. Another may prefer to set up a list of indicators to measure certain needs in the camp. The approaches are different (and quite often complimentary) but the goal and process are to a large extent the same.</p>
+<div class="margin sidebar">
+<p class="sidebar-title">Exercise</p>
+<p>Take a look at your desk and choose an object. Describe the attributes of that item. Perhaps you can describe the items colour, its length, its width, its texture, the materials its constructed from or how effective it is for your work. A surprising amount of data can be gathered from even the simples of objects.</p>
+</div>
+<p>Data is all around us but is usually messy and unstructured. Processing this information into a structure that can provide sense is at the core of IM. This ‘sense-making’ can use different approaches - an experienced camp manager may decide to walk into a new camp, walk around it observing it, deciding on what actions they need to prioritize. Another may prefer to set up a list of indicators to measure specific needs in the camp. The approaches are different (and quite often complimentary) but the goal and process are to a large extent the same.</p>
 <p>To get from messy data to structured that that can be used - by itself, or more commonly in conjunction with other datasets - a degree of organizing, tagging or categorizing must take place. If a survey is used, those categories are determined by the questions asked the type of questions and the response options. When setting these categories it is very important that each person involved with the data - from the person giving the response, the enumerator right up to those whose programmatic decisions it informs - has a clear and common understanding of what and how a concept is captured in these categories.</p>
 <div class="section" id="formats">
 <h3>Formats<a class="headerlink" href="#formats" title="Permalink to this headline">¶</a></h3>
@@ -358,6 +353,10 @@
 <li><p><strong>APIs</strong> To aid the access and transfer of data, it is very common for modern software systems to have an API, in which other websites (or data analysis tools) can request data from the underlying data store. The most common file format for these is called JSON, a semi-human readable format with the advantage over tabular formats in that is can represent messy semi-structured data or complex relationships that would otherwise require a database. <a class="footnote-reference brackets" href="#footnote4" id="id4">4</a></p></li>
 <li><p><strong>Spatial:</strong> Spatial data formats such as .shp, .gpg, .geojson .geotiff or .dem are used to store 2d or 3d spatial data. Most of these formats can display or export to tabular formats.</p></li>
 </ul>
+<div class="figure align-default" id="id5">
+<a class="reference internal image-reference" href="../_images/formats.png"><img alt="../_images/formats.png" src="../_images/formats.png" style="width: 800px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 3 </span><span class="caption-text">Examples of data as tables, a relational database, and as JSON from an travel distance API</span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
+</div>
 <div class="margin sidebar">
 <p class="sidebar-title">note to self</p>
 <p>add an image showing the appearance of three different filetypes</p>
@@ -383,20 +382,6 @@
 <li><p>standards</p></li>
 <li><p>primary vs secondary data</p></li>
 </ul>
-</div>
-<div class="section" id="methodologies">
-<h2>Methodologies<a class="headerlink" href="#methodologies" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li><p>KI</p></li>
-<li><p>FGD</p></li>
-<li><p>Observations</p></li>
-<li><p>Non traditional sources</p></li>
-<li><p>Representativeness</p></li>
-</ul>
-<div class="section" id="sampling">
-<h3>Sampling<a class="headerlink" href="#sampling" title="Permalink to this headline">¶</a></h3>
-<p>…</p>
-</div>
 </div>
 <div class="section" id="im-tips">
 <h2>IM tips<a class="headerlink" href="#im-tips" title="Permalink to this headline">¶</a></h2>
