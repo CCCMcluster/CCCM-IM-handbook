@@ -14,7 +14,7 @@ Data is the physical representation of information in a manner suitable for comm
 
 ## What does it look like?
 ```{margin} Exercise
-Take a look at your desk and choose an object. Describe the attributes of that item. Perhaps you can describe the items colour, its length, its width, its texture, the materials its constructed from or how effective it is for your work. A surprising amount of data can be gathered from even the simples of objects.
+Take a look at your desk and choose an object. Describe the attributes of that item. Perhaps you can describe the items colour, its length, its width, its texture, the materials its constructed from or how effective it is for your work. A surprising amount of data can be gathered from even the simplest of objects.
 ```
 Data is all around us but is usually messy and unstructured. Processing this information into a structure that can provide sense is at the core of IM. This 'sense-making' can use different approaches - an experienced camp manager may decide to walk into a new camp, walk around it observing it, deciding on what actions they need to prioritize. Another may prefer to set up a list of indicators to measure specific needs in the camp. The approaches are different (and quite often complimentary) but the goal and process are to a large extent the same.
 
@@ -51,11 +51,51 @@ Examples of data as tables, a relational database, and as JSON from an travel di
 
 
 
-## IM tips
-...
+## IM tips [^footnote5]
+```{figure} ./images/paintingwithexcel.jpg
+---
+width: 500px
+name: formats
+---
+Tatsuo Horiuchi uses Excel to paint beautiful Japanese lanscapes. Don't follow Tatsuo
+```
+### 1. Use Excel for numerical data
+Don't use software such as Word for gathering and analysing numerical data. Likewise, be careful not to use Excel to over visualise how your data is represented. Simple, well structured data is best for analysis and sharing with others.
+
+```{figure} ./images/saveoften.png
+---
+width: 500px
+name: formats
+---
+Click *File* > *Options* to get Excel to save more regularly
+```
+### 2. Save often, use versioning, and name files sensibly
+You don't want to work all day on an analysis to suddenly find that the fil crashed before you had a chance to save it. In Excel, there is an option to have your files autosave at a specified interval.  
+
+If saving to OneDrive or Sharepoint, you will see a small downward arrow which allows youto view the file's *Version History*. to view or roll back to previous version of a document. Alternatively you can save multiple versions of the file following certain milestones or use a software versioning software such as Git.  
+
+Try have you and your team use a consistent, welll understood naming convention for files. The format I use is as follows:  *[year][month(2digists)][date]-[initials]-[version]*. For example 20182307-IMtips-BMD-v1.xlsx
+
+### 3. Backup your data  
+What if your computer crashes or is stolen?  
+What if you need to collaborate on a file?  
+Make use of Onedrive/Sharepoint. Onedrive is ideal for working documents (you can right-click on a file and share it collaboratively). 
+
+### 4. Check for existing data, communicate  
+Talk to people  
+Don’t reinvent the wheel  
+Avoid duplication and collaborate
+
+
+
+
+
+
+
 
 
 [^footnote1]: Much of this chapter is adapted from [School of Data](https://schoolofdata.org/courses/) and IFRC's [Data Playbook](https://preparecenter.org/toolkit/data-playbook-toolkit/)
 [^footnote2]: From the UNECE [Terminology on Statistical Metadata](https://unece.org/info/Statistics/pub/21878)
 [^footnote3]: This form of data presentation is called [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf) and is considered as an optimal form of representing data to enable data cleaning and analysis.
 [^footnote4]: A simple example o this is to search by a category on [Reliefweb](https://reliefweb.int/updates) and clicking "API at the bottom of the page. This link can then be used by Excel which can show the data fields as a table.
+[^footnote]: Adapted from the excellent work of [Simon B Johnson](https://simonbjohnson.github.io/im-tips)
