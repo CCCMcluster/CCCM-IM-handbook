@@ -51,7 +51,8 @@ Examples of data as tables, a relational database, and as JSON from an travel di
 
 
 
-## IM tips [^footnote5]
+## IM tips 
+[^footnote5]
 ```{figure} ./images/paintingwithexcel.jpg
 ---
 width: 500px
@@ -60,8 +61,21 @@ name: formats
 Tatsuo Horiuchi uses Excel to paint beautiful Japanese lanscapes. Don't follow Tatsuo
 ```
 ### 1. Use Excel for numerical data
-Don't use software such as Word for gathering and analysing numerical data. Likewise, be careful not to use Excel to over visualise how your data is represented. Simple, well structured data is best for analysis and sharing with others.
+Don't use software such as Word for gathering and analysing numerical data. Likewise, be careful not to use Excel to over visualise how your data is represented. Simple, well structured data is best for analysis and sharing with others.  
+```{figure} ./images/paintingwithexcel.jpg
+---
+width: 500px
+name: formats
+---
+Tatsuo Horiuchi uses Excel to paint beautiful Japanese lanscapes. Don't follow Tatsuo
+```
 
+### 2. Save often, use versioning, and name files sensibly
+You don't want to work all day on an analysis to suddenly find that the fil crashed before you had a chance to save it. In Excel, there is an option to have your files autosave at a specified interval.  
+
+If saving to OneDrive or Sharepoint, you will see a small downward arrow which allows youto view the file's *Version History*. to view or roll back to previous version of a document. Alternatively you can save multiple versions of the file following certain milestones or use a software versioning software such as Git.  
+
+Try have you and your team use a consistent, welll understood naming convention for files. The format I use is as follows:  *[year][month(2digists)][date]-[initials]-[version]*. For example 20182307-IMtips-BMD-v1.xlsx
 ```{figure} ./images/saveoften.png
 ---
 width: 500px
@@ -69,13 +83,6 @@ name: formats
 ---
 Click *File* > *Options* to get Excel to save more regularly
 ```
-### 2. Save often, use versioning, and name files sensibly
-You don't want to work all day on an analysis to suddenly find that the fil crashed before you had a chance to save it. In Excel, there is an option to have your files autosave at a specified interval.  
-
-If saving to OneDrive or Sharepoint, you will see a small downward arrow which allows youto view the file's *Version History*. to view or roll back to previous version of a document. Alternatively you can save multiple versions of the file following certain milestones or use a software versioning software such as Git.  
-
-Try have you and your team use a consistent, welll understood naming convention for files. The format I use is as follows:  *[year][month(2digists)][date]-[initials]-[version]*. For example 20182307-IMtips-BMD-v1.xlsx
-
 ### 3. Backup your data  
 What if your computer crashes or is stolen?  
 What if you need to collaborate on a file?  
