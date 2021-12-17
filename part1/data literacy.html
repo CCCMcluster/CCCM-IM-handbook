@@ -342,6 +342,51 @@
      5. Use mobile data collection
     </a>
    </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#consistent-variable-naming">
+     6. Consistent variable naming
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#understand-meta-data">
+     7. Understand meta-data
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#spreadsheets-only-one-piece-of-information-per-cell">
+     8. Spreadsheets - only one piece of information per cell
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#record-data-at-a-granular-level-and-aggregate-up">
+     9. Record data at a granular level and aggregate up
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#learn-pivot-tables">
+     10. Learn pivot tables
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#learn-vlookup-and-index-match">
+     11. Learn VLOOKUP and Index Match
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#don-t-merge-cells-in-a-spreadsheet">
+     12. Don’t merge cells in a spreadsheet
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#keep-data-types-and-names-consistent-in-columns">
+     13. Keep data types and names consistent in columns
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#keep-all-similar-data-in-one-sheet">
+     14. Keep all similar data in one sheet
+    </a>
+   </li>
   </ul>
  </li>
 </ul>
@@ -411,13 +456,13 @@
 </div>
 <div class="section" id="im-tips">
 <h2>IM tips<a class="headerlink" href="#im-tips" title="Permalink to this headline">¶</a></h2>
-<p>.[^footnote5]</p>
+<p>The following tips are a collection of commonly encountered issues in humanitarian IM and how to avoid them. The tips are a shortened from their usual form to avoid overlap with other chapters where many of the isssues areexpanded in more detail.<a class="footnote-reference brackets" href="#footnote5" id="id6">5</a></p>
 <div class="section" id="use-excel-for-numerical-data">
 <h3>1. Use Excel for numerical data<a class="headerlink" href="#use-excel-for-numerical-data" title="Permalink to this headline">¶</a></h3>
 <p>Don’t use software such as Word for gathering and analysing numerical data. Likewise, be careful not to use Excel to over visualise how your data is represented. Simple, well structured data is best for analysis and sharing with others.</p>
-<div class="figure align-default" id="id6">
+<div class="figure align-default" id="id7">
 <a class="reference internal image-reference" href="../_images/paintingwithexcel.jpg"><img alt="../_images/paintingwithexcel.jpg" src="../_images/paintingwithexcel.jpg" style="width: 500px;" /></a>
-<p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">Tatsuo Horiuchi uses Excel to paint beautiful Japanese lanscapes. Don’t follow Tatsuo</span><a class="headerlink" href="#id6" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">Tatsuo Horiuchi uses Excel to paint beautiful Japanese lanscapes. Don’t follow Tatsuo</span><a class="headerlink" href="#id7" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="save-often-use-versioning-and-name-files-sensibly">
@@ -425,9 +470,9 @@
 <p>You don’t want to work all day on an analysis to suddenly find that the fil crashed before you had a chance to save it. In Excel, there is an option to have your files autosave at a specified interval.</p>
 <p>If saving to OneDrive or Sharepoint, you will see a small downward arrow which allows youto view the file’s <em>Version History</em>. to view or roll back to previous version of a document. Alternatively you can save multiple versions of the file following certain milestones or use a software versioning software such as Git.</p>
 <p>Try have you and your team use a consistent, welll understood naming convention for files. The format I use is as follows:  <em>[year][month(2digists)][date]-[initials]-[version]</em>. For example 20182307-IMtips-BMD-v1.xlsx</p>
-<div class="figure align-default" id="id7">
+<div class="figure align-default" id="id8">
 <a class="reference internal image-reference" href="../_images/saveoften.png"><img alt="../_images/saveoften.png" src="../_images/saveoften.png" style="width: 500px;" /></a>
-<p class="caption"><span class="caption-number">Fig. 5 </span><span class="caption-text">Click <em>File</em> &gt; <em>Options</em> to get Excel to save more regularly</span><a class="headerlink" href="#id7" title="Permalink to this image">¶</a></p>
+<p class="caption"><span class="caption-number">Fig. 5 </span><span class="caption-text">Click <em>File</em> &gt; <em>Options</em> to get Excel to save more regularly</span><a class="headerlink" href="#id8" title="Permalink to this image">¶</a></p>
 </div>
 </div>
 <div class="section" id="backup-your-data">
@@ -442,7 +487,37 @@ Make use of Onedrive/Sharepoint. Onedrive is ideal for working documents (you ca
 </div>
 <div class="section" id="use-mobile-data-collection">
 <h3>5. Use mobile data collection<a class="headerlink" href="#use-mobile-data-collection" title="Permalink to this headline">¶</a></h3>
-<p>The use of mobile data collection tools suck as Kobo Toolbox</p>
+<p>The use of mobile data collection tools such as <a class="reference external" href="https://kobo.humanitarianresponse.info/">Kobo Toolbox</a> support faster and more robust data collection. By enforcing checks on data inputs it reduces input errors, while also removing time consuming and error-prone tasks of manual data entry of paper forms.</p>
+<p>While ideal for surveys/assessments, be careful not to overfit such tools into scenarios that require <em>case management</em> type functionality.</p>
+</div>
+<div class="section" id="consistent-variable-naming">
+<h3>6. Consistent variable naming<a class="headerlink" href="#consistent-variable-naming" title="Permalink to this headline">¶</a></h3>
+<p><em>Are we talking about the same thing?</em> The terms/concepts describe in your surveys and data - does everyone have a clear and shared understanding of what they mean? Are you reusing well known and tested terms or are you inventing new ones. <a class="footnote-reference brackets" href="#footnote6" id="id9">6</a></p>
+</div>
+<div class="section" id="understand-meta-data">
+<h3>7. Understand meta-data<a class="headerlink" href="#understand-meta-data" title="Permalink to this headline">¶</a></h3>
+<p>…and why it is important. Meta-data is data that described data. For example, your survey data files should contain information describing where the data was collected, on which dates, the methodology used and relevant focal point. Including metadata in your datasets is an important habit for IMs, as it encourages reuse of the data and signifies a robust approach to analysis.</p>
+</div>
+<div class="section" id="spreadsheets-only-one-piece-of-information-per-cell">
+<h3>8. Spreadsheets - only one piece of information per cell<a class="headerlink" href="#spreadsheets-only-one-piece-of-information-per-cell" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="record-data-at-a-granular-level-and-aggregate-up">
+<h3>9. Record data at a granular level and aggregate up<a class="headerlink" href="#record-data-at-a-granular-level-and-aggregate-up" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="learn-pivot-tables">
+<h3>10. Learn pivot tables<a class="headerlink" href="#learn-pivot-tables" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="learn-vlookup-and-index-match">
+<h3>11. Learn VLOOKUP and Index Match<a class="headerlink" href="#learn-vlookup-and-index-match" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="don-t-merge-cells-in-a-spreadsheet">
+<h3>12. Don’t merge cells in a spreadsheet<a class="headerlink" href="#don-t-merge-cells-in-a-spreadsheet" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="keep-data-types-and-names-consistent-in-columns">
+<h3>13. Keep data types and names consistent in columns<a class="headerlink" href="#keep-data-types-and-names-consistent-in-columns" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="keep-all-similar-data-in-one-sheet">
+<h3>14. Keep all similar data in one sheet<a class="headerlink" href="#keep-all-similar-data-in-one-sheet" title="Permalink to this headline">¶</a></h3>
 <hr class="footnotes docutils" />
 <dl class="footnote brackets">
 <dt class="label" id="footnote1"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
@@ -456,6 +531,12 @@ Make use of Onedrive/Sharepoint. Onedrive is ideal for working documents (you ca
 </dd>
 <dt class="label" id="footnote4"><span class="brackets"><a class="fn-backref" href="#id4">4</a></span></dt>
 <dd><p>A simple example o this is to search by a category on <a class="reference external" href="https://reliefweb.int/updates">Reliefweb</a> and clicking “API at the bottom of the page. This link can then be used by Excel which can show the data fields as a table.</p>
+</dd>
+<dt class="label" id="footnote5"><span class="brackets"><a class="fn-backref" href="#id6">5</a></span></dt>
+<dd><p>Adapted from the excellent work of <a class="reference external" href="https://simonbjohnson.github.io/im-tips">Simon B Johnson</a></p>
+</dd>
+<dt class="label" id="footnote6"><span class="brackets"><a class="fn-backref" href="#id9">6</a></span></dt>
+<dd><p>OCHA’s <a class="reference external" href="http://vocabulary.unocha.org/">vocabulary page</a> is a good starting point for naming conventions.</p>
 </dd>
 </dl>
 </div>
