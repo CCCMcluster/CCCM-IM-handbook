@@ -89,9 +89,10 @@ What if you need to collaborate on a file?
 Make use of Onedrive/Sharepoint. Onedrive is ideal for working documents (you can right-click on a file and share it collaboratively). 
 
 ### 4. Check for existing data, communicate  
-Talk to people  
-Don’t reinvent the wheel  
-Avoid duplication and collaborate
+Networking and communication are important but sometimes overlooked skills for IM. It's important to know what other agencies and clusters are planning in terms of data collection and what challenges they are facing that may be better addressed with a collective approach. Checking for pre-existing data or planning assessments can help avoid duplication of efforts and unnecessarily *reinventing the wheel*.
+
+### 5. Use mobile data collection
+The use of mobile data collection tools suck as Kobo Toolbox
 
 
 
