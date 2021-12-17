@@ -52,14 +52,8 @@ Examples of data as tables, a relational database, and as JSON from an travel di
 
 
 ## IM tips 
-[^footnote5]
-```{figure} ./images/paintingwithexcel.jpg
----
-width: 500px
-name: formats
----
-Tatsuo Horiuchi uses Excel to paint beautiful Japanese lanscapes. Don't follow Tatsuo
-```
+The following tips are a collection of commonly encountered issues in humanitarian IM and how to avoid them. The tips are a shortened from their usual form to avoid overlap with other chapters where many of the isssues areexpanded in more detail.[^footnote5]
+
 ### 1. Use Excel for numerical data
 Don't use software such as Word for gathering and analysing numerical data. Likewise, be careful not to use Excel to over visualise how your data is represented. Simple, well structured data is best for analysis and sharing with others.  
 ```{figure} ./images/paintingwithexcel.jpg
@@ -92,13 +86,29 @@ Make use of Onedrive/Sharepoint. Onedrive is ideal for working documents (you ca
 Networking and communication are important but sometimes overlooked skills for IM. It's important to know what other agencies and clusters are planning in terms of data collection and what challenges they are facing that may be better addressed with a collective approach. Checking for pre-existing data or planning assessments can help avoid duplication of efforts and unnecessarily *reinventing the wheel*.
 
 ### 5. Use mobile data collection
-The use of mobile data collection tools suck as Kobo Toolbox
+The use of mobile data collection tools such as [Kobo Toolbox](https://kobo.humanitarianresponse.info/) support faster and more robust data collection. By enforcing checks on data inputs it reduces input errors, while also removing time consuming and error-prone tasks of manual data entry of paper forms.
 
+While ideal for surveys/assessments, be careful not to overfit such tools into scenarios that require *case management* type functionality. 
 
+### 6. Consistent variable naming
+*Are we talking about the same thing?* The terms/concepts describe in your surveys and data - does everyone have a clear and shared understanding of what they mean? Are you reusing well known and tested terms or are you inventing new ones. [^footnote6]
 
+### 7. Understand meta-data
+...and why it is important. Meta-data is data that described data. For example, your survey data files should contain information describing where the data was collected, on which dates, the methodology used and relevant focal point. Including metadata in your datasets is an important habit for IMs, as it encourages reuse of the data and signifies a robust approach to analysis.
 
+### 8. Spreadsheets - only one piece of information per cell
 
+### 9. Record data at a granular level and aggregate up  
 
+### 10. Learn pivot tables
+
+### 11. Learn VLOOKUP and Index Match
+
+### 12. Don't merge cells in a spreadsheet
+
+### 13. Keep data types and names consistent in columns
+
+### 14. Keep all similar data in one sheet
 
 
 
@@ -106,4 +116,5 @@ The use of mobile data collection tools suck as Kobo Toolbox
 [^footnote2]: From the UNECE [Terminology on Statistical Metadata](https://unece.org/info/Statistics/pub/21878)
 [^footnote3]: This form of data presentation is called [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf) and is considered as an optimal form of representing data to enable data cleaning and analysis.
 [^footnote4]: A simple example o this is to search by a category on [Reliefweb](https://reliefweb.int/updates) and clicking "API at the bottom of the page. This link can then be used by Excel which can show the data fields as a table.
-[^footnote]: Adapted from the excellent work of [Simon B Johnson](https://simonbjohnson.github.io/im-tips)
+[^footnote5]: Adapted from the excellent work of [Simon B Johnson](https://simonbjohnson.github.io/im-tips)
+[^footnote6]: OCHA's [vocabulary page](http://vocabulary.unocha.org/) is a good starting point for naming conventions.
