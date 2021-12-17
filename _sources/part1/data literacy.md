@@ -52,14 +52,8 @@ Examples of data as tables, a relational database, and as JSON from an travel di
 
 
 ## IM tips 
-[^footnote5]
-```{figure} ./images/paintingwithexcel.jpg
----
-width: 500px
-name: formats
----
-Tatsuo Horiuchi uses Excel to paint beautiful Japanese lanscapes. Don't follow Tatsuo
-```
+.[^footnote5]
+
 ### 1. Use Excel for numerical data
 Don't use software such as Word for gathering and analysing numerical data. Likewise, be careful not to use Excel to over visualise how your data is represented. Simple, well structured data is best for analysis and sharing with others.  
 ```{figure} ./images/paintingwithexcel.jpg
