@@ -16,6 +16,7 @@ Data is the physical representation of information in a manner suitable for comm
 ```{margin} Exercise
 Take a look at your desk and choose an object. Describe the attributes of that item. Perhaps you can describe the items colour, its length, its width, its texture, the materials its constructed from or how effective it is for your work. A surprising amount of data can be gathered from even the simplest of objects.
 ```
+
 Data is all around us but is usually messy and unstructured. Processing this information into a structure that can provide sense is at the core of IM. This 'sense-making' can use different approaches - an experienced camp manager may decide to walk into a new camp, walk around it observing it, deciding on what actions they need to prioritize. Another may prefer to set up a list of indicators to measure specific needs in the camp. The approaches are different (and quite often complimentary) but the goal and process are to a large extent the same.
 
 To get from messy data to structured that that can be used - by itself, or more commonly in conjunction with other datasets - a degree of organizing, tagging or categorizing must take place. If a survey is used, those categories are determined by the questions asked the type of questions and the response options. When setting these categories it is very important that each person involved with the data - from the person giving the response, the enumerator right up to those whose programmatic decisions it informs - has a clear and common understanding of what and how a concept is captured in these categories. 
@@ -94,21 +95,47 @@ While ideal for surveys/assessments, be careful not to overfit such tools into s
 *Are we talking about the same thing?* The terms/concepts describe in your surveys and data - does everyone have a clear and shared understanding of what they mean? Are you reusing well known and tested terms or are you inventing new ones. [^footnote6]
 
 ### 7. Understand meta-data
+![metadata](./images/metadata.png)  
 ...and why it is important. Meta-data is data that described data. For example, your survey data files should contain information describing where the data was collected, on which dates, the methodology used and relevant focal point. Including metadata in your datasets is an important habit for IMs, as it encourages reuse of the data and signifies a robust approach to analysis.
 
 ### 8. Spreadsheets - only one piece of information per cell
+![onepercell](./images/onepercell.png)  
+Storing multiple points of data in a single cell makes many types of analysis very difficult. Where possible try to expand these values onto their own rows (sometimes called "exploding" or "melting".)
 
 ### 9. Record data at a granular level and aggregate up  
+When you have data at a low unit of measurement, for example, the number of people using a specific Complaints and Feedback (CFM) desk, it is straightforward to aggregate that data to a higher unit, for example, the number of people using CFMs in a district. However, be careful of receiving data already aggregated as it is usually not possible to disaggregate it into its component parts. If your analysis depends on having data at a certain unit-level, make sure to have it collected or sent to you in at least the same or lower level of disaggregation. Aggregation may hide or disregard useful data useful for your analysis or quality control.
 
-### 10. Learn pivot tables
 
-### 11. Learn VLOOKUP and Index Match
+### 10. Learn pivot tables  
+![pivot](./images/pivot.png)
+Pivot tables are a powerful tool for aggregating data in Excel. (also called "groupby" in other software)
 
-### 12. Don't merge cells in a spreadsheet
+### 11. Learn VLOOKUP and Index Match  
+![vlookup](./images/vlookup.png)
+
+### 12. Don't merge cells in a spreadsheet  
+![merge](./images/merge.png)  
+Don't merge cells in a spreadsheet. Tables should contain an equal number of rows and columns. Merging cells breaks pivoting and filtering and goes against rule number 1 (when done for reasons of aesthetics). 
 
 ### 13. Keep data types and names consistent in columns
 
 ### 14. Keep all similar data in one sheet
+
+### 15. Check data relationships
+![check relationaships](./images/checkrelationships.png)
+
+### 16. Get coordinates for point data
+![pointdata](./images/pointdata.png)  
+If you have data that represents a point such as a hospital or a camp, instead of just naming it or giving its address you could also collect coordinates for it. There are many possible ways of doing this:
+- Using any app on your phone that records GPS
+- In a mobile data collection tool such as Kobo Toolbox
+- Using a geocoder, which outputs coordinates for given addresses or locations. [Nominatim](http://nominatim.openstreetmap.org/) is a free service using Open Streetmap Data.
+- The low tech approach of drawing on paper maps, digitizing later. [Fieldpapers](is a good tool for this)
+
+
+
+
+
 
 
 

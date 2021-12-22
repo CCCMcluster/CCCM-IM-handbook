@@ -387,6 +387,16 @@
      14. Keep all similar data in one sheet
     </a>
    </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#check-data-relationships">
+     15. Check data relationships
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#get-coordinates-for-point-data">
+     16. Get coordinates for point data
+    </a>
+   </li>
   </ul>
  </li>
 </ul>
@@ -496,28 +506,52 @@ Make use of Onedrive/Sharepoint. Onedrive is ideal for working documents (you ca
 </div>
 <div class="section" id="understand-meta-data">
 <h3>7. Understand meta-data<a class="headerlink" href="#understand-meta-data" title="Permalink to this headline">¶</a></h3>
-<p>…and why it is important. Meta-data is data that described data. For example, your survey data files should contain information describing where the data was collected, on which dates, the methodology used and relevant focal point. Including metadata in your datasets is an important habit for IMs, as it encourages reuse of the data and signifies a robust approach to analysis.</p>
+<p><img alt="metadata" src="../_images/metadata.png" /><br />
+…and why it is important. Meta-data is data that described data. For example, your survey data files should contain information describing where the data was collected, on which dates, the methodology used and relevant focal point. Including metadata in your datasets is an important habit for IMs, as it encourages reuse of the data and signifies a robust approach to analysis.</p>
 </div>
 <div class="section" id="spreadsheets-only-one-piece-of-information-per-cell">
 <h3>8. Spreadsheets - only one piece of information per cell<a class="headerlink" href="#spreadsheets-only-one-piece-of-information-per-cell" title="Permalink to this headline">¶</a></h3>
+<p><img alt="onepercell" src="../_images/onepercell.png" /><br />
+Storing multiple points of data in a single cell makes many types of analysis very difficult. Where possible try to expand these values onto their own rows (sometimes called “exploding” or “melting”.)</p>
 </div>
 <div class="section" id="record-data-at-a-granular-level-and-aggregate-up">
 <h3>9. Record data at a granular level and aggregate up<a class="headerlink" href="#record-data-at-a-granular-level-and-aggregate-up" title="Permalink to this headline">¶</a></h3>
+<p>When you have data at a low unit of measurement, for example, the number of people using a specific Complaints and Feedback (CFM) desk, it is straightforward to aggregate that data to a higher unit, for example, the number of people using CFMs in a district. However, be careful of receiving data already aggregated as it is usually not possible to disaggregate it into its component parts. If your analysis depends on having data at a certain unit-level, make sure to have it collected or sent to you in at least the same or lower level of disaggregation. Aggregation may hide or disregard useful data useful for your analysis or quality control.</p>
 </div>
 <div class="section" id="learn-pivot-tables">
 <h3>10. Learn pivot tables<a class="headerlink" href="#learn-pivot-tables" title="Permalink to this headline">¶</a></h3>
+<p><img alt="pivot" src="../_images/pivot.png" />
+Pivot tables are a powerful tool for aggregating data in Excel. (also called “groupby” in other software)</p>
 </div>
 <div class="section" id="learn-vlookup-and-index-match">
 <h3>11. Learn VLOOKUP and Index Match<a class="headerlink" href="#learn-vlookup-and-index-match" title="Permalink to this headline">¶</a></h3>
+<p><img alt="vlookup" src="part1/images/vlookup.png" /></p>
 </div>
 <div class="section" id="don-t-merge-cells-in-a-spreadsheet">
 <h3>12. Don’t merge cells in a spreadsheet<a class="headerlink" href="#don-t-merge-cells-in-a-spreadsheet" title="Permalink to this headline">¶</a></h3>
+<p><img alt="merge" src="../_images/merge.png" /><br />
+Don’t merge cells in a spreadsheet. Tables should contain an equal number of rows and columns. Merging cells breaks pivoting and filtering and goes against rule number 1 (when done for reasons of aesthetics).</p>
 </div>
 <div class="section" id="keep-data-types-and-names-consistent-in-columns">
 <h3>13. Keep data types and names consistent in columns<a class="headerlink" href="#keep-data-types-and-names-consistent-in-columns" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="keep-all-similar-data-in-one-sheet">
 <h3>14. Keep all similar data in one sheet<a class="headerlink" href="#keep-all-similar-data-in-one-sheet" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="check-data-relationships">
+<h3>15. Check data relationships<a class="headerlink" href="#check-data-relationships" title="Permalink to this headline">¶</a></h3>
+<p><img alt="check relationaships" src="../_images/checkrelationships.png" /></p>
+</div>
+<div class="section" id="get-coordinates-for-point-data">
+<h3>16. Get coordinates for point data<a class="headerlink" href="#get-coordinates-for-point-data" title="Permalink to this headline">¶</a></h3>
+<p><img alt="pointdata" src="../_images/pointdata.png" /><br />
+If you have data that represents a point such as a hospital or a camp, instead of just naming it or giving its address you could also collect coordinates for it. There are many possible ways of doing this:</p>
+<ul class="simple">
+<li><p>Using any app on your phone that records GPS</p></li>
+<li><p>In a mobile data collection tool such as Kobo Toolbox</p></li>
+<li><p>Using a geocoder, which outputs coordinates for given addresses or locations. <a class="reference external" href="http://nominatim.openstreetmap.org/">Nominatim</a> is a free service using Open Streetmap Data.</p></li>
+<li><p>The low tech approach of drawing on paper maps, digitizing later. [Fieldpapers](is a good tool for this)</p></li>
+</ul>
 <hr class="footnotes docutils" />
 <dl class="footnote brackets">
 <dt class="label" id="footnote1"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
