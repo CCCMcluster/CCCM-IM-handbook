@@ -13,7 +13,7 @@ A shared understanding of terms is important for engagement around data
 Data is the physical representation of information in a manner suitable for communication, interpretation, or processing by human beings or by automatic means.[^footnote2] It can be structured or unstructured, can come in many different forms (human-readable or machine-readable) and can come from any number of sources, using any number of methods. While the terms *data*, *information* and *knowledge* are quite often used interchangeably it is helpful to think of information as data integrated into context, and knowledge as a collection of information, processed in a way that provides learning.
 
 ## What does it look like?
-```{margin} Exercise
+```{admonition} Exercise
 Take a look at your desk and choose an object. Describe the attributes of that item. Perhaps you can describe the items colour, its length, its width, its texture, the materials its constructed from or how effective it is for your work. A surprising amount of data can be gathered from even the simplest of objects.
 ```
 
@@ -51,12 +51,10 @@ Examples of data as tables, a relational database, and as JSON from an travel di
 - primary vs secondary data
 
 
-
 ## IM tips 
-The following tips are a collection of commonly encountered issues in humanitarian IM and how to avoid them. The tips are a shortened from their usual form to avoid overlap with other chapters where many of the isssues areexpanded in more detail.[^footnote5]
+The following tips are a collection of commonly encountered issues in humanitarian IM and how to avoid them. The tips are a shortened from their usual form to avoid overlap with other chapters where many of the issues are expanded in more detail.[^footnote5]
 
 ### 1. Use Excel for numerical data
-Don't use software such as Word for gathering and analysing numerical data. Likewise, be careful not to use Excel to over visualise how your data is represented. Simple, well structured data is best for analysis and sharing with others.  
 ```{figure} ./images/paintingwithexcel.jpg
 ---
 width: 500px
@@ -64,19 +62,21 @@ name: formats
 ---
 Tatsuo Horiuchi uses Excel to paint beautiful Japanese lanscapes. Don't follow Tatsuo
 ```
+Don't use software such as Word for gathering and analysing numerical data. Likewise, be careful not to use Excel to over visualise how your data is represented. Simple, well structured data is best for analysis and sharing with others.  
 
 ### 2. Save often, use versioning, and name files sensibly
-You don't want to work all day on an analysis to suddenly find that the fil crashed before you had a chance to save it. In Excel, there is an option to have your files autosave at a specified interval.  
-
-If saving to OneDrive or Sharepoint, you will see a small downward arrow which allows youto view the file's *Version History*. to view or roll back to previous version of a document. Alternatively you can save multiple versions of the file following certain milestones or use a software versioning software such as Git.  
-
-Try have you and your team use a consistent, welll understood naming convention for files. The format I use is as follows:  *[year][month(2digists)][date]-[initials]-[version]*. For example 20182307-IMtips-BMD-v1.xlsx
 ```{figure} ./images/saveoften.png
 ---
 width: 500px
 name: formats
 ---
-Click *File* > *Options* to get Excel to save more regularly
+Click 
+You don't want to work all day on an analysis to suddenly find that the fil crashed before you had a chance to save it. In Excel, there is an option to have your files autosave at a specified interval.  
+
+If saving to OneDrive or Sharepoint, you will see a small downward arrow which allows youto view the file's *Version History*. to view or roll back to previous version of a document. Alternatively you can save multiple versions of the file following certain milestones or use a software versioning software such as Git.  
+
+Try have you and your team use a consistent, welll understood naming convention for files. The format I use is as follows:  *[year][month(2digists)][date]-[initials]-[version]*. For example 20182307-IMtips-BMD-v1.xlsx
+*File* > *Options* to get Excel to save more regularly
 ```
 ### 3. Backup your data  
 What if your computer crashes or is stolen?  
@@ -89,7 +89,7 @@ Networking and communication are important but sometimes overlooked skills for I
 ### 5. Use mobile data collection
 The use of mobile data collection tools such as [Kobo Toolbox](https://kobo.humanitarianresponse.info/) support faster and more robust data collection. By enforcing checks on data inputs it reduces input errors, while also removing time consuming and error-prone tasks of manual data entry of paper forms.
 
-While ideal for surveys/assessments, be careful not to overfit such tools into scenarios that require *case management* type functionality. 
+While ideal for surveys/assessments, be careful not to over-fit such tools into scenarios that require *case management* type functionality. 
 
 ### 6. Consistent variable naming
 *Are we talking about the same thing?* The terms/concepts describe in your surveys and data - does everyone have a clear and shared understanding of what they mean? Are you reusing well known and tested terms or are you inventing new ones. [^footnote6]
@@ -105,7 +105,6 @@ Storing multiple points of data in a single cell makes many types of analysis ve
 ### 9. Record data at a granular level and aggregate up  
 When you have data at a low unit of measurement, for example, the number of people using a specific Complaints and Feedback (CFM) desk, it is straightforward to aggregate that data to a higher unit, for example, the number of people using CFMs in a district. However, be careful of receiving data already aggregated as it is usually not possible to disaggregate it into its component parts. If your analysis depends on having data at a certain unit-level, make sure to have it collected or sent to you in at least the same or lower level of disaggregation. Aggregation may hide or disregard useful data useful for your analysis or quality control.
 
-
 ### 10. Learn pivot tables  
 ![pivot](./images/pivot.png)
 Pivot tables are a powerful tool for aggregating data in Excel. (also called "groupby" in other software)
@@ -118,8 +117,12 @@ Pivot tables are a powerful tool for aggregating data in Excel. (also called "gr
 Don't merge cells in a spreadsheet. Tables should contain an equal number of rows and columns. Merging cells breaks pivoting and filtering and goes against rule number 1 (when done for reasons of aesthetics). 
 
 ### 13. Keep data types and names consistent in columns
+![names](./images/names.png)  
+Make sure that the spelling (including case) and format of values remain consistent for all values in a column. 
 
 ### 14. Keep all similar data in one sheet
+![1sheet](./images/1sheet.png)  
+Resist the temptation to split large datasets across tabs, using a tab for each region etc. This makes analysis and consolidated storage and management of the data harder. Instead add a column to capture the category names.
 
 ### 15. Check data relationships
 ![check relationaships](./images/checkrelationships.png)
@@ -131,12 +134,6 @@ If you have data that represents a point such as a hospital or a camp, instead o
 - In a mobile data collection tool such as Kobo Toolbox
 - Using a geocoder, which outputs coordinates for given addresses or locations. [Nominatim](http://nominatim.openstreetmap.org/) is a free service using Open Streetmap Data.
 - The low tech approach of drawing on paper maps, digitizing later. [Fieldpapers](is a good tool for this)
-
-
-
-
-
-
 
 
 [^footnote1]: Much of this chapter is adapted from [School of Data](https://schoolofdata.org/courses/) and IFRC's [Data Playbook](https://preparecenter.org/toolkit/data-playbook-toolkit/)
