@@ -13,11 +13,11 @@ A shared understanding of terms is important for engagement around data
 Data is the physical representation of information in a manner suitable for communication, interpretation, or processing by human beings or by automatic means.[^footnote2] It can be structured or unstructured, can come in many different forms (human-readable or machine-readable) and can come from any number of sources, using any number of methods. While the terms *data*, *information* and *knowledge* are quite often used interchangeably it is helpful to think of information as data integrated into context, and knowledge as a collection of information, processed in a way that provides learning.
 
 ## What does it look like?
+Data is all around us but is usually messy and unstructured. Processing this information into a structure that can provide sense is at the core of IM. This 'sense-making' can use different approaches - an experienced camp manager may decide to walk into a new camp, walk around it observing it, deciding on what actions they need to prioritize. Another may prefer to set up a list of indicators to measure specific needs in the camp. The approaches are different (and quite often complimentary) but the goal and process are to a large extent the same.  
+
 ```{admonition} Exercise
 Take a look at your desk and choose an object. Describe the attributes of that item. Perhaps you can describe the items colour, its length, its width, its texture, the materials its constructed from or how effective it is for your work. A surprising amount of data can be gathered from even the simplest of objects.
 ```
-
-Data is all around us but is usually messy and unstructured. Processing this information into a structure that can provide sense is at the core of IM. This 'sense-making' can use different approaches - an experienced camp manager may decide to walk into a new camp, walk around it observing it, deciding on what actions they need to prioritize. Another may prefer to set up a list of indicators to measure specific needs in the camp. The approaches are different (and quite often complimentary) but the goal and process are to a large extent the same.
 
 To get from messy data to structured that that can be used - by itself, or more commonly in conjunction with other datasets - a degree of organizing, tagging or categorizing must take place. If a survey is used, those categories are determined by the questions asked the type of questions and the response options. When setting these categories it is very important that each person involved with the data - from the person giving the response, the enumerator right up to those whose programmatic decisions it informs - has a clear and common understanding of what and how a concept is captured in these categories. 
 
@@ -44,8 +44,14 @@ Examples of data as tables, a relational database, and as JSON from an travel di
 * Non traditional sources
 
 ## Key data concepts
-- measures
-- indicators
+.
+### Values
+Simple data values can be numeric; such as an integer (whole number) or float; boolean, such as a yes/no or true/false; or a string, a sequence of symbols such as a text answer. Compound values are combinations of simple values. Examples include dates, time, or list of values (such as a list of answers to a multiple choice question) [^footnote7]  
+
+### Types of data
+Variables (items of data) can spilt into two groups, quantitative (numeric) or categoric (no inherent order). Quantitative variables can either be discrete, meaning they have a finite number of values (eg household size) or continuous, meaning an infinite number of values are possible (eg. a persons height or distance to a health facility)
+
+
 - scales
 - standards
 - primary vs secondary data
@@ -142,3 +148,4 @@ If you have data that represents a point such as a hospital or a camp, instead o
 [^footnote4]: A simple example o this is to search by a category on [Reliefweb](https://reliefweb.int/updates) and clicking "API at the bottom of the page. This link can then be used by Excel which can show the data fields as a table.
 [^footnote5]: Adapted from the excellent work of [Simon B Johnson](https://simonbjohnson.github.io/im-tips)
 [^footnote6]: OCHA's [vocabulary page](http://vocabulary.unocha.org/) is a good starting point for naming conventions.
+[^footnote7]: Harvards [CS109A](https://harvard-iacs.github.io/2019-CS109A/lectures/lecture2/) has a number of useful reading materials and exercises on the topic of data
