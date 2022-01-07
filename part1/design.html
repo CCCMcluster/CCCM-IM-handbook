@@ -41,7 +41,7 @@
     <script src="../_static/clipboard.min.js"></script>
     <script src="../_static/copybutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script>
         const thebe_selector = ".thebe"
@@ -260,7 +260,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -278,7 +278,7 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
@@ -310,7 +310,42 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Design & Acquire</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#before-you-start-collecting-data">
+   Before you start collecting data…
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#methodologies">
+   Methodologies
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#sampling">
+     Sampling
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="design-acquire">
@@ -336,7 +371,7 @@
 <p>The next step is to take stock of existing data and to develop an analysis plan linking your information needs to you existing data and/or any potential future data collection exercises.</p>
 <p>Collection of data has costs - it costs time, it has HR costs, it has financial costs. It is important to understand these costs and viewing them in relation to the value it provides to your decision making. Similarly, when developing surveys, adding questions are no without cost, as for each question that is added, there is a cognitive cost(more questions = higher likelihood of mistakes), a time cost (longer surveys take longer to do) and a quality cost (cleaning and data checks are more difficult on larger datasets). Understand that 80% of the value of your survey will come from 20% of your survey. As you add additional questions to your survey, the value they add to your decision-making diminishes. <a class="footnote-reference brackets" href="#footnote1" id="id1">1</a></p>
 <div class="figure align-default" id="viable">
-<a class="reference internal image-reference" href="part1/images/minimalviableinformation.png"><img alt="part1/images/minimalviableinformation.png" src="part1/images/minimalviableinformation.png" style="width: 500px;" /></a>
+<a class="reference internal image-reference" href="../_images/minimalviableinformation.png"><img alt="../_images/minimalviableinformation.png" src="../_images/minimalviableinformation.png" style="width: 500px;" /></a>
 <p class="caption"><span class="caption-number">Fig. 7 </span><span class="caption-text">As your number of survey questions increase, the return on effort gradually diminishes.</span><a class="headerlink" href="#viable" title="Permalink to this image">¶</a></p>
 </div>
 </div>
@@ -384,8 +419,8 @@
 
               </div>
               
-        
-            <!-- Previous / next buttons -->
+            
+                <!-- Previous / next buttons -->
 <div class='prev-next-area'> 
     <a class='left-prev' id="prev-link" href="what%20is%20information%20management.html" title="previous page">
         <i class="fas fa-angle-left"></i>
@@ -402,19 +437,17 @@
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-        
+            
         </div>
     </div>
     <footer class="footer">
-    <div class="container">
-      <p>
-        
-          By Global CCCM Cluster<br/>
-        
-            &copy; Copyright 2021.<br/>
-      </p>
-    </div>
-  </footer>
+  <p>
+    
+      By Global CCCM Cluster<br/>
+    
+        &copy; Copyright 2021.<br/>
+  </p>
+</footer>
 </main>
 
 
