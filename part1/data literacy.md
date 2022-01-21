@@ -138,7 +138,7 @@ Resist the temptation to split large datasets across tabs, using a tab for each 
 If you have data that represents a point such as a hospital or a camp, instead of just naming it or giving its address you could also collect coordinates for it. There are many possible ways of doing this:
 - Using any app on your phone that records GPS
 - In a mobile data collection tool such as Kobo Toolbox
-- Using a geocoder, which outputs coordinates for given addresses or locations. [Nominatim](http://nominatim.openstreetmap.org/) is a free service using Open Streetmap Data.
+- Using a geocoder, which outputs coordinates for given addresses or locations. [Nominatim](http://nominatim.openstreetmap.org/) is a free service using Open Street Map data.
 - The low tech approach of drawing on paper maps, digitizing later. [Fieldpapers](is a good tool for this)
 
 
