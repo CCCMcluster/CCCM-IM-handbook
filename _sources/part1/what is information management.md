@@ -1,4 +1,9 @@
 # What is Information Management?
+
+# Data Literacy
+```{warning}
+This chapter is in draft stage.
+```
 ..
 
 ## Profiles

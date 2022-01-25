@@ -1,4 +1,7 @@
 # Analysis
+```{warning}
+This chapter is in draft stage.
+```
 ...
 
 ## The Analysis Spectrum

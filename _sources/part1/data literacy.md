@@ -1,4 +1,7 @@
 # Data Literacy
+```{warning}
+This chapter is in draft stage.
+```
 
 The purpose of this chapter is to introduce the reader to the concept of data, what it is, how it used in humanitarian response and its relevance in the role of information management. This chapter forms an important basis for subsequent chapters as it aims to clearly describe key concepts around data to ensure their clear and shared understanding. This shared vocabulary is vital for the collaboration needed at the various stages of the data's lifecycle. This chapter is primarily aimed at IM's but is also relevant to any humanitarian involved to any degree in evidence-based decision making.[^footnote1]  
 
@@ -51,11 +54,49 @@ Simple data values can be numeric; such as an integer (whole number) or float; b
 ### Types of data
 Variables (items of data) can spilt into two groups, quantitative (numeric) or categoric (no inherent order). Quantitative variables can either be discrete, meaning they have a finite number of values (eg household size) or continuous, meaning an infinite number of values are possible (eg. a persons height or distance to a health facility)
 
+## Scales
+Data can be classified under the following 4 scales of measurement:
+- ** Nominal scales**: Nominal values/variables, sometimes called *categorical values* don't have a numeric value so cannot be added, subtracted or multiplied. They do not have an order. For example, the name of a district that an IDP is from.
+- **Ordinal scale**: Contains values that can be put in order. For example, the levels of satisfaction with a training.
+- **Interval scale**:  Contains ordinal numbers with meaningful divisions. For example, temperature or time.
+- **Ratio scale**: Ratio scales have all of the characteristics of interval scales as well as a true zero. For example, a persons height.
+![images/typesofdata.png]
 
-- scales
-- standards
-- primary vs secondary data
 
+### Goal/Strategic Objective
+A specific end result desired or expected to occur as a consequence, at least in part, of an intervention or  activity. It is the higher order objective that will assure national capacity building to which a development intervention is intended to contribute.
+
+### Impact
+Impact implies changes in people’s lives. This might include changes in knowledge, skill, behaviour, health or living conditions for children, adults, families or communities. Such changes are positive or negative longterm effects on identifiable population groups produced by a development intervention, directly or indirectly, intended or unintended.
+
+### Outcome
+Outcomes represent changes in the institutional and behavioral capacities for development conditions that occur between the completion of outputs and the achievement of goals.
+
+### Outputs
+Outputs are changes in skills or abilities and capacities of individuals or institutions, or the availability of new products and services that result from the completion of activities within a development intervention within the control of the organization. They are achieved with the resources provided and within the time period specified.
+
+### Activities
+Actions taken or work performed through which inputs, such as funds, technical assistance and other types of resources, are mobilized to produce specific outputs.
+
+### Inputs 
+The financial, human, material, technological and information resources used for development interventions.
+
+### Indicators
+Usually separated into two categories:
+- Need indicators: a quantitative or qualitative unit of measurement of need which when monitored periodically can be used as a measure of impact.
+- Response/performance indicators: used to measure outputs or outcomes.
+
+### Target
+Specifies a particular value that an indicator should reach by to meet agreed standard of service or programme goals. Setting target values for most indicators requires a level of contextualization and can be influences by external factors such as resources available.
+
+### Standard
+
+
+### Benchmark
+Reference point or standard, including norms, against which progress or achievements can be assessed. A benchmark refers to the performance that has been achieved in the recent past by other comparable organizations, or what can be reasonably expected to have been achieved in similar circumstances.
+
+### Primary data vs secondary data
+...
 
 ## IM tips 
 The following tips are a collection of commonly encountered issues in humanitarian IM and how to avoid them. The tips are a shortened from their usual form to avoid overlap with other chapters where many of the issues are expanded in more detail.[^footnote5]
