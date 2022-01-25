@@ -54,13 +54,20 @@ Simple data values can be numeric; such as an integer (whole number) or float; b
 ### Types of data
 Variables (items of data) can spilt into two groups, quantitative (numeric) or categoric (no inherent order). Quantitative variables can either be discrete, meaning they have a finite number of values (eg household size) or continuous, meaning an infinite number of values are possible (eg. a persons height or distance to a health facility)
 
-## Scales
+### Scales
 Data can be classified under the following 4 scales of measurement:
-- ** Nominal scales**: Nominal values/variables, sometimes called *categorical values* don't have a numeric value so cannot be added, subtracted or multiplied. They do not have an order. For example, the name of a district that an IDP is from.
+- **Nominal scales**: Nominal values/variables, sometimes called *categorical values* don't have a numeric value so cannot be added, subtracted or multiplied. They do not have an order. For example, the name of a district that an IDP is from.
 - **Ordinal scale**: Contains values that can be put in order. For example, the levels of satisfaction with a training.
 - **Interval scale**:  Contains ordinal numbers with meaningful divisions. For example, temperature or time.
 - **Ratio scale**: Ratio scales have all of the characteristics of interval scales as well as a true zero. For example, a persons height.
-![images/typesofdata.png]
+
+```{figure} ./images/typesofdata.png
+---
+width: 800px
+name: formats
+---
+Types of data and how they relate
+```
 
 
 ### Goal/Strategic Objective
