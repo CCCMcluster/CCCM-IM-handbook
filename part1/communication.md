@@ -1,7 +1,5 @@
 # Communication
-```{warning}
-This chapter is a first draft and may be subject to change.
-```
+
 Communication may be the final step in the IMs workflow but is by no means the least important. The best analysis, using the best data collection methods and tools are worthless if the communication of these findings are insufficient to inform decisions.
 
 ## How to write about numbers

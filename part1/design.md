@@ -1,5 +1,9 @@
 # Design & Acquire
 
+```{warning}
+This chapter is in draft stage.
+```
+
 ```{epigraph}
 Any information that doesn't not inform or change an decision is worthless.
 

@@ -1,4 +1,7 @@
 # Products & Templates
+```{warning}
+Drafting of this chapter is ongoing.
+```
 
 The following list of CCCM Cluster IM products are a showcase of good examples from various contexts. While they can be reused for other contexts it is important to understand the specific information needs messages and audiences for your context.
 
