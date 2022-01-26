@@ -46,7 +46,7 @@ Examples of data as tables, a relational database, and as JSON from an travel di
 * Others
 * Non traditional sources
 
-## Key data concepts
+## Data concepts
 .
 ### Values
 Simple data values can be numeric; such as an integer (whole number) or float; boolean, such as a yes/no or true/false; or a string, a sequence of symbols such as a text answer. Compound values are combinations of simple values. Examples include dates, time, or list of values (such as a list of answers to a multiple choice question) [^footnote7]  
@@ -97,14 +97,14 @@ Usually separated into two categories:
 Specifies a particular value that an indicator should reach by to meet agreed standard of service or programme goals. Setting target values for most indicators requires a level of contextualization and can be influences by external factors such as resources available.
 
 ### Standard
-
+...
 
 ### Benchmark
 Reference point or standard, including norms, against which progress or achievements can be assessed. A benchmark refers to the performance that has been achieved in the recent past by other comparable organizations, or what can be reasonably expected to have been achieved in similar circumstances.
 
 ### Primary data vs secondary data
 ...
-
+---
 ## IM tips 
 The following tips are a collection of commonly encountered issues in humanitarian IM and how to avoid them. The tips are a shortened from their usual form to avoid overlap with other chapters where many of the issues are expanded in more detail.[^footnote5]
 
