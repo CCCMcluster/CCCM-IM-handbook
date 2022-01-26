@@ -40,7 +40,7 @@ Examples of data as tables, a relational database, and as JSON from an travel di
 ```
 
 ### Sources
-* CODs
+* Common Operating Datasets (CODs)
 * HDX
 * Internal systems
 * Others
