@@ -105,7 +105,7 @@ Reference point or standard, including norms, against which progress or achievem
 ### Primary data vs secondary data
 ...
 ---
-## IM tips 
+## Information Management tips 
 The following tips are a collection of commonly encountered issues in humanitarian IM and how to avoid them. The tips are a shortened from their usual form to avoid overlap with other chapters where many of the issues are expanded in more detail.[^footnote5]
 
 ### 1. Use Excel for numerical data
