@@ -1,4 +1,4 @@
-# Communication
+# Communication & Visualization
 
 Communication may be the final step in the IMs workflow but is by no means the least important. The best analysis, using the best data collection methods and tools are worthless if the communication of these findings are insufficient to inform decisions.
 
@@ -20,7 +20,7 @@ There are seven basic principles about writing about numbers: [^footnote5]
 
 6. **Specify magnitude and direction of an association.**  Don't just say "there are more displaced people in camp A than in camp B", provide a number quantifying *how* different it is. When explaining the relationship between variables it is also important to be clear on the direction of that relationship. For example "IDPs in Camp A had a lower number of food complaints compared to the previous month".
 
-7. **Summarize patterns.** Rather than presenting a big table or graph showing the data and letting the viewer figure things out for themself it is good to summarize and highlight patterns that contribute to the analysis and message.
+7. **Summarize patterns.** Rather than presenting a big table or graph showing the data and letting the viewer figure things out for themselves it is good to summarize and highlight patterns that contribute to the analysis and message.
 
 ```{tip}
 - Tell a story

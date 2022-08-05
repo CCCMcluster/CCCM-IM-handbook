@@ -21,7 +21,7 @@ Any information that doesn't not inform or change an decision is worthless.
 - minimal viable information
 
 ## Before you start collecting data...
-...stop and think. Many IM guidances present IM task in a linear fashion that starts with *data collection*. This is wrong. Any good analysis will start first with an articulation of what are the overarching questions that need answering and what decisions will be informed by this evidence. 
+...stop and think. IM guidances sometimes present IM task in a linear fashion that starts with *data collection*. This is problematic. Good analysis requires us to first start with an articulation of what are the overarching questions that need answering and what decisions will be informed by this evidence. 
 
 The next step is to take stock of existing data and to develop an analysis plan linking your information needs to you existing data and/or any potential future data collection exercises.
 
