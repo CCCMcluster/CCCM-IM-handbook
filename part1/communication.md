@@ -1,6 +1,6 @@
 # Communication & Visualization
 
-Communication may be the final step in the IMs workflow but is by no means the least important. The best analysis, using the best data collection methods and tools are worthless if the communication of these findings are insufficient to inform decisions.
+Communication may be the final step in the IMs workflow but is by no means the least important. The best analysis, using the best data collection methods and tools are worthless if the communication of these findings are insufficient to inform decisions. [^footnote7]
 
 ## How to write about numbers
 When preparing to write up an analysis, it is important to first consider the following:  
@@ -351,3 +351,5 @@ When presenting slides, consider the following:
 [^footnote5]: Adapted from The Chicago Guide to Writing about Numbers, by Jane E. Miller
 
 [^footnote6]: Data journalism put increasing emphasis on the need for a good annotation layer, as can be seen by this article from the [Financial Times](https://www.ft.com/content/4743ce96-e4bf-11e7-97e2-916d4fbac0da)
+
+[^footnote7]: For a deeper dive into technical writing, this free [Google course](https://developers.google.com/tech-writing/overview) is highly recommended
