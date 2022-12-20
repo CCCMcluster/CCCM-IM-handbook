@@ -1,0 +1,77 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "CCCM IM Handbook"
+  author: "CCCM Cluster"
+  favicon: logo.png
+  page-navigation: true
+  repo-actions: []
+  downloads: [pdf, epub]
+  license: "CC BY-NC"
+  open-graph: true
+  google-analytics: ""
+  sidebar:
+      logo: logo.png
+  chapters:
+    - index.qmd
+    - part: Humanitarian IM
+      chapters:
+        - part1/data-literacy.qmd
+        - part1/what-is-information-management.qmd
+        - part1/design.qmd
+        - part1/analysis.qmd
+        - part1/communication.qmd
+        - part1/data-responsibility.qmd
+        - part1/tools.qmd
+    - part: CCCM Operations IM
+      chapters:
+        - part2/operations.qmd
+        - part2/products.qmd
+    - part: CCCM Cluster IM
+      chapters:
+        - part3/cluster.qmd
+        - part3/hpccycle.qmd
+        - part3/preparedness.qmd
+        - part3/needs-assessment.qmd
+        - part3/strategic-planning.qmd
+        - part3/resource-mobilization.qmd
+        - part3/implementation-and-monitoring.qmd
+        - part3/opr.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    link-external-icon: true
+    link-external-newwindow: true
+    logo: logo.png
+    theme:
+      light: cosmo
+      dark: darkly
+    status: "draft"
+    date-modified: today
+    number-sections: true
+    number-depth: 4
+    toc-depth: 4
+
+  epub:
+    cover-image: cover.png
+    toc: true
+    number-sections: true
+    number-depth: 4
+    toc-depth: 4
+
+  pdf:
+    documentclass: book
+    classoption: [onecolumn, oneside]
+    papersize: A4
+    number-sections: true
+    toc: true
+    lof: true
+    number-depth: 4
+    toc-depth: 4
+
+
+
