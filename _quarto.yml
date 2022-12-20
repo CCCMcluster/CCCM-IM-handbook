@@ -62,7 +62,7 @@ format:
     number-sections: true
     number-depth: 4
     toc-depth: 4
-
+    
   pdf:
     documentclass: book
     classoption: [onecolumn, oneside]
