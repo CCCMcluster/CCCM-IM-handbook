@@ -11,7 +11,6 @@ book:
   downloads: [pdf, epub]
   license: "CC BY-NC"
   open-graph: true
-  google-analytics: ""
   sidebar:
       logo: logo.png
   chapters:
@@ -40,8 +39,6 @@ book:
         - part3/implementation-and-monitoring.qmd
         - part3/opr.qmd
 
-bibliography: references.bib
-
 format:
   html:
     link-external-icon: true
@@ -55,23 +52,3 @@ format:
     number-sections: true
     number-depth: 4
     toc-depth: 4
-
-  epub:
-    cover-image: cover.png
-    toc: true
-    number-sections: true
-    number-depth: 4
-    toc-depth: 4
-    
-  pdf:
-    documentclass: book
-    classoption: [onecolumn, oneside]
-    papersize: A4
-    number-sections: true
-    toc: true
-    lof: true
-    number-depth: 4
-    toc-depth: 4
-
-
-
