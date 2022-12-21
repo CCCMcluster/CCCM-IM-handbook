@@ -1,0 +1,15 @@
+# Analysis
+:::{warning}
+This chapter is in draft stage.
+:::
+...
+
+## The Analysis Spectrum
+...
+![The Analysis Spectrum (adapted from ACAPS 2017, Pherson 2010)](./images/analysisspectrum.png){.column-page-right width=70% }
+
+
+## Understanding Bias
+...
+
+![188 Cognitive biases (adapted from Mangoongian 2021) - [view larger](./images/cognitive-bias.jpg)](./images/cognitive-bias.jpg){.column-page-right width=70% }
