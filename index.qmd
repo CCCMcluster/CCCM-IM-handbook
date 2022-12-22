@@ -41,7 +41,7 @@ The content in this handbook are drawn from three main sources:
 
 - The experience, advice and materials from our CCCM colleagues in the field.
 
-- Guidance materials developed at the global-level from inter-agency platforms such as the Global Information Management Working Group and from other Clusters.
+- Guidance materials developed at the global-level from inter-agency platforms including the Global Information Management Working Group and from other Clusters.
 
 - Many excellent information management trainings including: OCHA's [Coordinated Assessment and Information Management training (CAIM)](https://www.humanitarianresponse.info/en/operations/simulation-training/caim); and [ACAPS's Humanitarian Analysis Program](https://www.acaps.org/humanitarian-analysis-programme-hap).
 
