@@ -168,17 +168,94 @@
     "text": "Warning\n\n\n\nDrafting of this chapter has not yet started.\n\n\nnote: For some products, the operating environment may dictate wherether certain tools are designed at the CCCM partner level or at the Cluster level. For example, in some countries, the CCCM Cluster designed and manages a single system for Complaint and Feedback, whereas in other contexts each CCCM partner design and manage their own system."
   },
   {
-    "objectID": "part3/cluster.html",
-    "href": "part3/cluster.html",
+    "objectID": "part3/cluster.html#the-humanitarian-program-cycle",
+    "href": "part3/cluster.html#the-humanitarian-program-cycle",
     "title": "10  The role of IM in the Cluster",
-    "section": "",
-    "text": "Warning\n\n\n\nDrafting of this chapter has not yet started.\n\n\nTodo: create outline for part 3."
+    "section": "10.1 The Humanitarian Program Cycle",
+    "text": "10.1 The Humanitarian Program Cycle\n\n\nThe humanitarian programme cycle (HPC) is a coordinated series of actions undertaken to help prepare for, manage and deliver humanitarian response. It consists of five elements coordinated in a seamless manner, with one step logically building on the previous and leading to the next. Successful implementation of the humanitarian programme cycle is dependent on effective emergency preparedness, effective coordination with national/local authorities and humanitarian actors, and information management. 2"
   },
   {
-    "objectID": "part3/hpccycle.html",
-    "href": "part3/hpccycle.html",
-    "title": "11  The HPC Cycle",
-    "section": "",
-    "text": "Warning\n\n\n\nDrafting of this chapter has not yet started.\n\n\nwork in progress.."
+    "objectID": "part3/needs-assessment.html#cccm-sectoral-analysis",
+    "href": "part3/needs-assessment.html#cccm-sectoral-analysis",
+    "title": "12  Needs Assessment & Analysis",
+    "section": "12.1 CCCM Sectoral analysis",
+    "text": "12.1 CCCM Sectoral analysis\n…\n\n12.1.1 Setting your needs analysis parameters\n…\n\n\n12.1.2 People in Need calculation\n…\n\n\n12.1.3 Severity of needs in CCCM\n…"
+  },
+  {
+    "objectID": "part3/needs-assessment.html#inter-sectoral-analysis",
+    "href": "part3/needs-assessment.html#inter-sectoral-analysis",
+    "title": "12  Needs Assessment & Analysis",
+    "section": "12.2 Inter-sectoral analysis",
+    "text": "12.2 Inter-sectoral analysis\n…"
+  },
+  {
+    "objectID": "part3/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
+    "href": "part3/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
+    "title": "12  Needs Assessment & Analysis",
+    "section": "12.3 Humanitarian Needs Overview & Flash Appeals",
+    "text": "12.3 Humanitarian Needs Overview & Flash Appeals\n…"
+  },
+  {
+    "objectID": "part3/strategic-planning.html#strategic-objectives",
+    "href": "part3/strategic-planning.html#strategic-objectives",
+    "title": "13  Strategic Planning",
+    "section": "13.1 Strategic Objectives",
+    "text": "13.1 Strategic Objectives\n…"
+  },
+  {
+    "objectID": "part3/strategic-planning.html#indicators",
+    "href": "part3/strategic-planning.html#indicators",
+    "title": "13  Strategic Planning",
+    "section": "13.2 Indicators",
+    "text": "13.2 Indicators\n…"
+  },
+  {
+    "objectID": "part3/strategic-planning.html#activities",
+    "href": "part3/strategic-planning.html#activities",
+    "title": "13  Strategic Planning",
+    "section": "13.3 Activities",
+    "text": "13.3 Activities\n…"
+  },
+  {
+    "objectID": "part3/strategic-planning.html#targets",
+    "href": "part3/strategic-planning.html#targets",
+    "title": "13  Strategic Planning",
+    "section": "13.4 Targets",
+    "text": "13.4 Targets"
+  },
+  {
+    "objectID": "part3/strategic-planning.html#humanitarian-response-plan",
+    "href": "part3/strategic-planning.html#humanitarian-response-plan",
+    "title": "13  Strategic Planning",
+    "section": "13.5 Humanitarian Response Plan",
+    "text": "13.5 Humanitarian Response Plan\n…"
+  },
+  {
+    "objectID": "part3/resource-mobilization.html#costing",
+    "href": "part3/resource-mobilization.html#costing",
+    "title": "14  Resource Mobilization",
+    "section": "14.1 Costing",
+    "text": "14.1 Costing\n…"
+  },
+  {
+    "objectID": "part3/implementation-and-monitoring.html#people-reached",
+    "href": "part3/implementation-and-monitoring.html#people-reached",
+    "title": "15  Implementation & Monitoring",
+    "section": "15.1 People Reached",
+    "text": "15.1 People Reached\n…"
+  },
+  {
+    "objectID": "part3/implementation-and-monitoring.html#people-covered",
+    "href": "part3/implementation-and-monitoring.html#people-covered",
+    "title": "15  Implementation & Monitoring",
+    "section": "15.2 People Covered",
+    "text": "15.2 People Covered\n…"
+  },
+  {
+    "objectID": "part3/opr.html#cluster-coordination-performance-monitoring",
+    "href": "part3/opr.html#cluster-coordination-performance-monitoring",
+    "title": "16  Operational Peer Review & Evaluation",
+    "section": "16.1 Cluster Coordination Performance Monitoring",
+    "text": "16.1 Cluster Coordination Performance Monitoring\n…"
   }
 ]
