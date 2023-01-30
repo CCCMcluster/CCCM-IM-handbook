@@ -31,7 +31,6 @@ book:
     - part: CCCM Cluster IM
       chapters:
         - part3/cluster.qmd
-        - part3/hpccycle.qmd
         - part3/preparedness.qmd
         - part3/needs-assessment.qmd
         - part3/strategic-planning.qmd
