@@ -1,4 +1,4 @@
 # Resource Mobilization
 
 ## Costing
-...
+.

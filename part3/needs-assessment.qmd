@@ -1,20 +1,24 @@
 # Needs Assessment & Analysis
-...
+::: {.callout-tip}
+## Recommended reading
+- [Humanitarian Needs Assessment: The Good Enough Guide](files/humanitarian_needs_assessment-the_good_enough_guide_2014.pdf) - ACAPS
+- [JIAF 1.1 Guidance](files/4.%20HPC_2023-JIAF_Guide%201.1.pdf)
+:::
 
 ## CCCM Sectoral analysis
-...
+a
 
 ### Setting your needs analysis parameters
-...
+a
 
 ### People in Need calculation
-...
+a
 
 ### Severity of needs in CCCM
-...
+a
 
 ## Inter-sectoral analysis
-...
+a
 
 ## Humanitarian Needs Overview & Flash Appeals
-...
+a

@@ -3,6 +3,13 @@
 Part 3 of the IM  handbook is in a zero draft phase. Both the structure and content are likley to change significantly
 :::
 
+::: {.callout-tip}
+## Recommended reading
+- [Humanitarian Population Figures](files/humanitarianprofilesupportguidance_final_may2016.pdf) - IMWG
+- [IASC Reference Module for the Implementation of the Humanitarian Programme Cycle](files/humanitarianprofilesupportguidance_final_may2016.pdf)- IASC
+- [Responsibilities of Cluster/Sector Leads and OCHA in Information Management](files/Operational%20Guidance%20on%20Responsibilities%20of%20Cluster-Sector%20Leads%20and%20OCHA%20in%20Information%20Management.pdf) - IASC
+:::
+
 The role of Information Management in the CCCM Cluster at country-level is best viewed through the lens of the **six core functions**:[^footnote1]  
 
 >1. To support service delivery by:

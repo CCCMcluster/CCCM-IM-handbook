@@ -20,8 +20,8 @@ Any information that doesn't not inform or change an decision is worthless.
 - sampling
 - minimal viable information
 
-## Before you start collecting data...
-...stop and think. IM guidances sometimes present IM task in a linear fashion that starts with *data collection*. This is problematic. Good analysis requires us to first start with an articulation of what are the overarching questions that need answering and what decisions will be informed by this evidence. 
+## Before you start collecting data.
+.stop and think. IM guidances sometimes present IM task in a linear fashion that starts with *data collection*. This is problematic. Good analysis requires us to first start with an articulation of what are the overarching questions that need answering and what decisions will be informed by this evidence. 
 
 The next step is to take stock of existing data and to develop an analysis plan linking your information needs to you existing data and/or any potential future data collection exercises.
 
@@ -37,6 +37,6 @@ Collection of data has costs - it costs time, it has HR costs, it has financial 
 - Representativeness
 
 ### Sampling
-...
+.
 
 [^footnote1]: This is called the [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle). A good post on Minimal Viable Information can be found [here](https://medium.com/hetco-zine/minimum-viable-data-when-less-data-is-more-valuable-d225b5fa9c1b)

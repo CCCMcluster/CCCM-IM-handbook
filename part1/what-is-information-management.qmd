@@ -1,24 +1,26 @@
 # What is Information Management?
 
 # Data Literacy
+
 :::{.callout-warning}
 This chapter is in draft stage.
 :::
+
 ..
 
 ## Profiles
 ..
 
 ## Skills and attitudes
-...
+.
 
-![A Data Skills Framework by the [ODI](https://theodi.org/article/data-skills-framework/)](./images/dataskillsframework.png){width=70% }
+![A Data Skills Framework by the [ODI](https://theodi.org/article/data-skills-framework/)](./images/dataskillsframework.png)
 
 ## Responsibilities
 - The core cluster functions and how they relate to IM.
 
 ## IM workflow
-...
+.
 
 ### Collection
 
@@ -27,10 +29,10 @@ This section discusses:
 - Primary data collection
 
 ### Processing
-...
+.
 
 ### Analysis
-...
+.
 
 ### Dissemination
-...
+.

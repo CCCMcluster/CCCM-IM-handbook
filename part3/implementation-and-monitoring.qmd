@@ -1,7 +1,12 @@
 # Implementation & Monitoring
 
+::: {.callout-tip}
+## Recommended reading
+- [Measuring and aggregating population figures for planning and monitoring](files/OCHA%20Approaches%20to%20determining%20people%20reached%202022.pdf)
+:::
+
 ## People Reached
-...
+.
 
 ## People Covered
-...
+.

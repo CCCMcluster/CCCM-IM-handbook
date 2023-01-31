@@ -2,17 +2,22 @@ project:
   type: book
   output-dir: docs
 
+execute:
+  freeze: auto
+  
 book:
   title: "CCCM IM Handbook"
   author: "CCCM Cluster"
   favicon: logo.png
   page-navigation: true
   repo-actions: []
-  downloads: [pdf, epub]
-  license: "CC BY-NC"
+  downloads:
+    - pdf
+    - epub
+  license: CC BY-NC
   open-graph: true
   sidebar:
-      logo: logo.png
+    logo: logo.png
   chapters:
     - index.qmd
     - part: Humanitarian IM
@@ -37,7 +42,6 @@ book:
         - part3/resource-mobilization.qmd
         - part3/implementation-and-monitoring.qmd
         - part3/opr.qmd
-
 format:
   html:
     link-external-icon: true
@@ -46,8 +50,21 @@ format:
     theme:
       light: cosmo
       dark: darkly
-    status: "draft"
+    status: draft
     date-modified: today
     number-sections: true
     number-depth: 4
     toc-depth: 4
+
+  epub:
+    toc: true
+    
+  pdf:
+    documentclass: book
+    classoption:
+      - onecolumn
+      - oneside
+    papersize: A4
+    number-sections: true
+    toc: true
+    lof: true

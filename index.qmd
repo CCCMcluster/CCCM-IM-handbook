@@ -33,7 +33,7 @@ If you have any questions, wish to correct any technical or textual mistakes, or
 
 > We would like to thank everybody for their support in developing this handbook and hope that you find it accessible and useful
 > 
-> -- the CCCM Cluster team
+> - the CCCM Cluster team
 
 
 ## Acknowledgements
