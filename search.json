@@ -49,39 +49,32 @@
     "text": "1.4 Information Management tips\nThe following tips are a collection of commonly encountered issues in humanitarian IM and how to avoid them. The tips are a shortened from their usual form to avoid overlap with other chapters where many of the issues are expanded in more detail.6\n\n1.4.1 Use Excel for numerical data\n\n\n\nTatsuo Horiuchi uses Excel to paint beautiful Japanese lanscapes. Don’t follow Tatsuo\n\n\nDon’t use software such as Word for gathering and analysing numerical data. Likewise, be careful not to use Excel to over visualise how your data is represented. Simple, well structured data is best for analysis and sharing with others.\n\n\n1.4.2 Save often, use versioning, and name files sensibly\n\n\n\nClick save!\n\n\nYou don’t want to work all day on an analysis to suddenly find that the fil crashed before you had a chance to save it. In Excel, there is an option to have your files autosave at a specified interval.\nIf saving to OneDrive or Sharepoint, you will see a small downward arrow which allows youto view the file’s Version History. to view or roll back to previous version of a document. Alternatively you can save multiple versions of the file following certain milestones or use a software versioning software such as Git.\nTry have you and your team use a consistent, welll understood naming convention for files. The format I use is as follows: [year][month(2digists)][date]-[initials]-[version]. For example 20182307-IMtips-BMD-v1.xlsx File > Options to get Excel to save more regularly\n\n\n1.4.3 Backup your data\nWhat if your computer crashes or is stolen?\nWhat if you need to collaborate on a file?\nMake use of Onedrive/Sharepoint. Onedrive is ideal for working documents (you can right-click on a file and share it collaboratively).\n\n\n1.4.4 Check for existing data, communicate\nNetworking and communication are important but sometimes overlooked skills for IM. It’s important to know what other agencies and clusters are planning in terms of data collection and what challenges they are facing that may be better addressed with a collective approach. Checking for pre-existing data or planning assessments can help avoid duplication of efforts and unnecessarily reinventing the wheel.\n\n\n1.4.5 Use mobile data collection\nThe use of mobile data collection tools such as Kobo Toolbox support faster and more robust data collection. By enforcing checks on data inputs it reduces input errors, while also removing time consuming and error-prone tasks of manual data entry of paper forms.\nWhile ideal for surveys/assessments, be careful not to over-fit such tools into scenarios that require case management type functionality.\n\n\n1.4.6 Consistent variable naming\nAre we talking about the same thing? The terms/concepts describe in your surveys and data - does everyone have a clear and shared understanding of what they mean? Are you reusing well known and tested terms or are you inventing new ones. 7\n\n\n1.4.7 Understand meta-data\n\n…and why it is important. Meta-data is data that described data. For example, your survey data files should contain information describing where the data was collected, on which dates, the methodology used and relevant focal point. Including metadata in your datasets is an important habit for IMs, as it encourages reuse of the data and signifies a robust approach to analysis.\n\n\n1.4.8 Spreadsheets - only one piece of information per cell\n\nStoring multiple points of data in a single cell makes many types of analysis very difficult. Where possible try to expand these values onto their own rows (sometimes called “exploding” or “melting”.)\n\n\n1.4.9 Record data at a granular level and aggregate up\nWhen you have data at a low unit of measurement, for example, the number of people using a specific Complaints and Feedback (CFM) desk, it is straightforward to aggregate that data to a higher unit, for example, the number of people using CFMs in a district. However, be careful of receiving data already aggregated as it is usually not possible to disaggregate it into its component parts. If your analysis depends on having data at a certain unit-level, make sure to have it collected or sent to you in at least the same or lower level of disaggregation. Aggregation may hide or disregard useful data useful for your analysis or quality control.\n\n\n1.4.10 Learn pivot tables\n Pivot tables are a powerful tool for aggregating data in Excel. (also called “groupby” in other software)\n\n\n1.4.11 Learn VLOOKUP and Index Match\n\n\n\nvlookup\n\n\n\n\n1.4.12 Don’t merge cells in a spreadsheet\n\nDon’t merge cells in a spreadsheet. Tables should contain an equal number of rows and columns. Merging cells breaks pivoting and filtering and goes against rule number 1 (when done for reasons of aesthetics).\n\n\n1.4.13 Keep data types and names consistent in columns\n\nMake sure that the spelling (including case) and format of values remain consistent for all values in a column.\n\n\n1.4.14 Keep all similar data in one sheet\n\nResist the temptation to split large datasets across tabs, using a tab for each region etc. This makes analysis and consolidated storage and management of the data harder. Instead add a column to capture the category names.\n\n\n1.4.15 Check data relationships\n\n\n\ncheck relationaships\n\n\n\n\n1.4.16 Get coordinates for point data\n\nIf you have data that represents a point such as a hospital or a camp, instead of just naming it or giving its address you could also collect coordinates for it. There are many possible ways of doing this:\n\nUsing any app on your phone that records GPS\nIn a mobile data collection tool such as Kobo Toolbox\nUsing a geocoder, which outputs coordinates for given addresses or locations. Nominatim is a free service using Open Street Map data.\nThe low tech approach of drawing on paper maps, digitizing later. Fieldpapers"
   },
   {
-    "objectID": "part1/what-is-information-management.html",
-    "href": "part1/what-is-information-management.html",
-    "title": "2  What is Information Management?",
-    "section": "",
-    "text": "3 Data Literacy\n.."
-  },
-  {
     "objectID": "part1/what-is-information-management.html#profiles",
     "href": "part1/what-is-information-management.html#profiles",
     "title": "2  What is Information Management?",
-    "section": "3.1 Profiles",
-    "text": "3.1 Profiles\n.."
+    "section": "2.1 Profiles",
+    "text": "2.1 Profiles\n.."
   },
   {
     "objectID": "part1/what-is-information-management.html#skills-and-attitudes",
     "href": "part1/what-is-information-management.html#skills-and-attitudes",
     "title": "2  What is Information Management?",
-    "section": "3.2 Skills and attitudes",
-    "text": "3.2 Skills and attitudes\n.\n\n\n\nA Data Skills Framework by the ODI"
+    "section": "2.2 Skills and attitudes",
+    "text": "2.2 Skills and attitudes\n.\n\n\n\nA Data Skills Framework by the ODI"
   },
   {
     "objectID": "part1/what-is-information-management.html#responsibilities",
     "href": "part1/what-is-information-management.html#responsibilities",
     "title": "2  What is Information Management?",
-    "section": "3.3 Responsibilities",
-    "text": "3.3 Responsibilities\n\nThe core cluster functions and how they relate to IM."
+    "section": "2.3 Responsibilities",
+    "text": "2.3 Responsibilities\n\nThe core cluster functions and how they relate to IM."
   },
   {
     "objectID": "part1/what-is-information-management.html#im-workflow",
     "href": "part1/what-is-information-management.html#im-workflow",
     "title": "2  What is Information Management?",
-    "section": "3.4 IM workflow",
-    "text": "3.4 IM workflow\n.\n\n3.4.1 Collection\nThis section discusses: - Secondary data review - Primary data collection\n\n\n3.4.2 Processing\n.\n\n\n3.4.3 Analysis\n.\n\n\n3.4.4 Dissemination\n."
+    "section": "2.4 IM workflow",
+    "text": "2.4 IM workflow\n.\n\n2.4.1 Collection\nThis section discusses: - Secondary data review - Primary data collection\n\n\n2.4.2 Processing\n.\n\n\n2.4.3 Analysis\n.\n\n\n2.4.4 Dissemination\n."
   },
   {
     "objectID": "part1/design.html#before-you-start-collecting-data.",
@@ -177,85 +170,85 @@
   {
     "objectID": "part3/needs-assessment.html#cccm-sectoral-analysis",
     "href": "part3/needs-assessment.html#cccm-sectoral-analysis",
-    "title": "12  Needs Assessment & Analysis",
-    "section": "12.1 CCCM Sectoral analysis",
-    "text": "12.1 CCCM Sectoral analysis\na\n\n12.1.1 Setting your needs analysis parameters\na\n\n\n12.1.2 People in Need calculation\na\n\n\n12.1.3 Severity of needs in CCCM\na"
+    "title": "11  Needs Assessment & Analysis",
+    "section": "11.1 CCCM Sectoral analysis",
+    "text": "11.1 CCCM Sectoral analysis\na\n\n11.1.1 Setting your needs analysis parameters\na\n\n\n11.1.2 People in Need calculation\na\n\n\n11.1.3 Severity of needs in CCCM\na"
   },
   {
     "objectID": "part3/needs-assessment.html#inter-sectoral-analysis",
     "href": "part3/needs-assessment.html#inter-sectoral-analysis",
-    "title": "12  Needs Assessment & Analysis",
-    "section": "12.2 Inter-sectoral analysis",
-    "text": "12.2 Inter-sectoral analysis\na"
+    "title": "11  Needs Assessment & Analysis",
+    "section": "11.2 Inter-sectoral analysis",
+    "text": "11.2 Inter-sectoral analysis\na"
   },
   {
     "objectID": "part3/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
     "href": "part3/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
-    "title": "12  Needs Assessment & Analysis",
-    "section": "12.3 Humanitarian Needs Overview & Flash Appeals",
-    "text": "12.3 Humanitarian Needs Overview & Flash Appeals\na"
+    "title": "11  Needs Assessment & Analysis",
+    "section": "11.3 Humanitarian Needs Overview & Flash Appeals",
+    "text": "11.3 Humanitarian Needs Overview & Flash Appeals\na"
   },
   {
     "objectID": "part3/strategic-planning.html#strategic-objectives",
     "href": "part3/strategic-planning.html#strategic-objectives",
-    "title": "13  Strategic Planning",
-    "section": "13.1 Strategic Objectives",
-    "text": "13.1 Strategic Objectives\n."
+    "title": "12  Strategic Planning",
+    "section": "12.1 Strategic Objectives",
+    "text": "12.1 Strategic Objectives\n."
   },
   {
     "objectID": "part3/strategic-planning.html#indicators",
     "href": "part3/strategic-planning.html#indicators",
-    "title": "13  Strategic Planning",
-    "section": "13.2 Indicators",
-    "text": "13.2 Indicators\n."
+    "title": "12  Strategic Planning",
+    "section": "12.2 Indicators",
+    "text": "12.2 Indicators\n."
   },
   {
     "objectID": "part3/strategic-planning.html#activities",
     "href": "part3/strategic-planning.html#activities",
-    "title": "13  Strategic Planning",
-    "section": "13.3 Activities",
-    "text": "13.3 Activities\n."
+    "title": "12  Strategic Planning",
+    "section": "12.3 Activities",
+    "text": "12.3 Activities\n."
   },
   {
     "objectID": "part3/strategic-planning.html#targets",
     "href": "part3/strategic-planning.html#targets",
-    "title": "13  Strategic Planning",
-    "section": "13.4 Targets",
-    "text": "13.4 Targets"
+    "title": "12  Strategic Planning",
+    "section": "12.4 Targets",
+    "text": "12.4 Targets"
   },
   {
     "objectID": "part3/strategic-planning.html#humanitarian-response-plan",
     "href": "part3/strategic-planning.html#humanitarian-response-plan",
-    "title": "13  Strategic Planning",
-    "section": "13.5 Humanitarian Response Plan",
-    "text": "13.5 Humanitarian Response Plan\n."
+    "title": "12  Strategic Planning",
+    "section": "12.5 Humanitarian Response Plan",
+    "text": "12.5 Humanitarian Response Plan\n."
   },
   {
     "objectID": "part3/resource-mobilization.html#costing",
     "href": "part3/resource-mobilization.html#costing",
-    "title": "14  Resource Mobilization",
-    "section": "14.1 Costing",
-    "text": "14.1 Costing\n."
+    "title": "13  Resource Mobilization",
+    "section": "13.1 Costing",
+    "text": "13.1 Costing\n."
   },
   {
     "objectID": "part3/implementation-and-monitoring.html#people-reached",
     "href": "part3/implementation-and-monitoring.html#people-reached",
-    "title": "15  Implementation & Monitoring",
-    "section": "15.1 People Reached",
-    "text": "15.1 People Reached\n."
+    "title": "14  Implementation & Monitoring",
+    "section": "14.1 People Reached",
+    "text": "14.1 People Reached\n."
   },
   {
     "objectID": "part3/implementation-and-monitoring.html#people-covered",
     "href": "part3/implementation-and-monitoring.html#people-covered",
-    "title": "15  Implementation & Monitoring",
-    "section": "15.2 People Covered",
-    "text": "15.2 People Covered\n."
+    "title": "14  Implementation & Monitoring",
+    "section": "14.2 People Covered",
+    "text": "14.2 People Covered\n."
   },
   {
     "objectID": "part3/opr.html#cluster-coordination-performance-monitoring",
     "href": "part3/opr.html#cluster-coordination-performance-monitoring",
-    "title": "16  Operational Peer Review & Evaluation",
-    "section": "16.1 Cluster Coordination Performance Monitoring",
-    "text": "16.1 Cluster Coordination Performance Monitoring\n."
+    "title": "15  Operational Peer Review & Evaluation",
+    "section": "15.1 Cluster Coordination Performance Monitoring",
+    "text": "15.1 Cluster Coordination Performance Monitoring\n."
   }
 ]
