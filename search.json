@@ -11,7 +11,7 @@
     "href": "index.html#feedback",
     "title": "CCCM IM Handbook",
     "section": "Feedback",
-    "text": "Feedback\nIf you have any questions, wish to correct any technical or textual mistakes, or wish to suggest improvements to this handbook, plese get in touch with the Global CCCM Cluster Information Management Officers (IMO) Brian Mc Donald - bmcdonald@iom.int or Alisa Ananbeh - ananbeh@unhcr.org\n\nWe would like to thank everybody for their support in developing this handbook and hope that you find it accessible and useful\n– the CCCM Cluster team"
+    "text": "Feedback\nIf you have any questions, wish to correct any technical or textual mistakes, or wish to suggest improvements to this handbook, plese get in touch with the Global CCCM Cluster Information Management Officers (IMO) Brian Mc Donald - bmcdonald@iom.int or Alisa Ananbeh - ananbeh@unhcr.org\n\nWe would like to thank everybody for their support in developing this handbook and hope that you find it accessible and useful\n\nthe CCCM Cluster team"
   },
   {
     "objectID": "index.html#acknowledgements",
@@ -67,7 +67,7 @@
     "href": "part1/what-is-information-management.html#skills-and-attitudes",
     "title": "2  What is Information Management?",
     "section": "3.2 Skills and attitudes",
-    "text": "3.2 Skills and attitudes\n…\n\n\n\nA Data Skills Framework by the ODI"
+    "text": "3.2 Skills and attitudes\n.\n\n\n\nA Data Skills Framework by the ODI"
   },
   {
     "objectID": "part1/what-is-information-management.html#responsibilities",
@@ -81,35 +81,35 @@
     "href": "part1/what-is-information-management.html#im-workflow",
     "title": "2  What is Information Management?",
     "section": "3.4 IM workflow",
-    "text": "3.4 IM workflow\n…\n\n3.4.1 Collection\nThis section discusses: - Secondary data review - Primary data collection\n\n\n3.4.2 Processing\n…\n\n\n3.4.3 Analysis\n…\n\n\n3.4.4 Dissemination\n…"
+    "text": "3.4 IM workflow\n.\n\n3.4.1 Collection\nThis section discusses: - Secondary data review - Primary data collection\n\n\n3.4.2 Processing\n.\n\n\n3.4.3 Analysis\n.\n\n\n3.4.4 Dissemination\n."
   },
   {
-    "objectID": "part1/design.html#before-you-start-collecting-data",
-    "href": "part1/design.html#before-you-start-collecting-data",
+    "objectID": "part1/design.html#before-you-start-collecting-data.",
+    "href": "part1/design.html#before-you-start-collecting-data.",
     "title": "3  Design & Acquire",
-    "section": "3.1 Before you start collecting data…",
-    "text": "3.1 Before you start collecting data…\n…stop and think. IM guidances sometimes present IM task in a linear fashion that starts with data collection. This is problematic. Good analysis requires us to first start with an articulation of what are the overarching questions that need answering and what decisions will be informed by this evidence.\nThe next step is to take stock of existing data and to develop an analysis plan linking your information needs to you existing data and/or any potential future data collection exercises.\nCollection of data has costs - it costs time, it has HR costs, it has financial costs. It is important to understand these costs and viewing them in relation to the value it provides to your decision making. Similarly, when developing surveys, adding questions are no without cost, as for each question that is added, there is a cognitive cost(more questions = higher likelihood of mistakes), a time cost (longer surveys take longer to do) and a quality cost (cleaning and data checks are more difficult on larger datasets). Understand that 80% of the value of your survey will come from 20% of your survey. As you add additional questions to your survey, the value they add to your decision-making diminishes. 1\n\n\n\nAs your number of survey questions increase, the return on effort gradually diminishes."
+    "section": "3.1 Before you start collecting data.",
+    "text": "3.1 Before you start collecting data.\n.stop and think. IM guidances sometimes present IM task in a linear fashion that starts with data collection. This is problematic. Good analysis requires us to first start with an articulation of what are the overarching questions that need answering and what decisions will be informed by this evidence.\nThe next step is to take stock of existing data and to develop an analysis plan linking your information needs to you existing data and/or any potential future data collection exercises.\nCollection of data has costs - it costs time, it has HR costs, it has financial costs. It is important to understand these costs and viewing them in relation to the value it provides to your decision making. Similarly, when developing surveys, adding questions are no without cost, as for each question that is added, there is a cognitive cost(more questions = higher likelihood of mistakes), a time cost (longer surveys take longer to do) and a quality cost (cleaning and data checks are more difficult on larger datasets). Understand that 80% of the value of your survey will come from 20% of your survey. As you add additional questions to your survey, the value they add to your decision-making diminishes. 1\n\n\n\nAs your number of survey questions increase, the return on effort gradually diminishes."
   },
   {
     "objectID": "part1/design.html#methodologies",
     "href": "part1/design.html#methodologies",
     "title": "3  Design & Acquire",
     "section": "3.2 Methodologies",
-    "text": "3.2 Methodologies\n\nKI\nFGD\nObservations\nNon traditional sources\nRepresentativeness\n\n\n3.2.1 Sampling\n…"
+    "text": "3.2 Methodologies\n\nKI\nFGD\nObservations\nNon traditional sources\nRepresentativeness\n\n\n3.2.1 Sampling\n."
   },
   {
     "objectID": "part1/analysis.html#the-analysis-spectrum",
     "href": "part1/analysis.html#the-analysis-spectrum",
     "title": "4  Analysis",
     "section": "4.1 The Analysis Spectrum",
-    "text": "4.1 The Analysis Spectrum\n…"
+    "text": "4.1 The Analysis Spectrum\n."
   },
   {
     "objectID": "part1/analysis.html#understanding-bias",
     "href": "part1/analysis.html#understanding-bias",
     "title": "4  Analysis",
     "section": "4.2 Understanding Bias",
-    "text": "4.2 Understanding Bias\n…\n\n\n\n188 Cognitive biases (adapted from Mangoongian 2021) - view larger"
+    "text": "4.2 Understanding Bias\n.\n\n\n\n188 Cognitive biases (adapted from Mangoongian 2021) - view larger"
   },
   {
     "objectID": "part1/communication.html#how-to-write-about-numbers",
@@ -137,21 +137,21 @@
     "href": "part1/data-responsibility.html",
     "title": "6  Data Responsibility",
     "section": "",
-    "text": "This chapter is in draft stage.\n\nThis section describes data security; data protection\n\n\nHere’s my note!\n\n\nOutline - Main resources: IASC Data Responsibility in Humanitarian Action; ICRC Handbook on Data Protection in Humanitarian Action; IOM Data Protection Manual - Explain what is personal information - Examples of types of data in CCCM - Data protection principles\n\nIASC Data Responsibility in Humanitarian Action\n\nICRC Handbook on Data Protection in Humanitarian Action\n\nIOM Data Protection Manual"
+    "text": "This chapter is in draft stage.\n\nThis section describes data security; data protection\n\n\nHere’s my note!\n\n\nOutline - Main resources: IASC Data Responsibility in Humanitarian Action; ICRC Handbook on Data Protection in Humanitarian Action; IOM Data Protection Manual - Explain what is personal information - Examples of types of data in CCCM - Data protection principles\n\nIASC Data Responsibility in Humanitarian Action\nICRC Handbook on Data Protection in Humanitarian Action\nIOM Data Protection Manual"
   },
   {
     "objectID": "part1/tools.html#test",
     "href": "part1/tools.html#test",
     "title": "7  Tools",
     "section": "7.1 test",
-    "text": "7.1 test\nThe choice of software used to create CCCM products can be influenced by factors such as personal preference/familiarity, experience - some IMs may prefer more advanced tools, time constraints and budget. The following list of software is not a prescriptive list, rather a list of tools preferred by the authors\n\n7.1.1 Microsoft Excel\n…\n\n\n7.1.2 QGIS/ArcGIS\n…\n\n\n7.1.3 Inkscape/Adobe Illustrator\n…\n\n\n7.1.4 Microsoft PowerBI\n…\n\n\n7.1.5 Microsoft Forms/Google Forms\n\n\n7.1.6 Kobo toolbox"
+    "text": "7.1 test\nThe choice of software used to create CCCM products can be influenced by factors such as personal preference/familiarity, experience - some IMs may prefer more advanced tools, time constraints and budget. The following list of software is not a prescriptive list, rather a list of tools preferred by the authors\n\n7.1.1 Microsoft Excel\n.\n\n\n7.1.2 QGIS/ArcGIS\n.\n\n\n7.1.3 Inkscape/Adobe Illustrator\n.\n\n\n7.1.4 Microsoft PowerBI\n.\n\n\n7.1.5 Microsoft Forms/Google Forms\n.\n\n\n7.1.6 Kobo toolbox\n."
   },
   {
     "objectID": "part1/tools.html#advanced-tools",
     "href": "part1/tools.html#advanced-tools",
     "title": "7  Tools",
     "section": "7.2 Advanced tools",
-    "text": "7.2 Advanced tools"
+    "text": "7.2 Advanced tools\n."
   },
   {
     "objectID": "part2/operations.html",
@@ -179,42 +179,42 @@
     "href": "part3/needs-assessment.html#cccm-sectoral-analysis",
     "title": "12  Needs Assessment & Analysis",
     "section": "12.1 CCCM Sectoral analysis",
-    "text": "12.1 CCCM Sectoral analysis\n…\n\n12.1.1 Setting your needs analysis parameters\n…\n\n\n12.1.2 People in Need calculation\n…\n\n\n12.1.3 Severity of needs in CCCM\n…"
+    "text": "12.1 CCCM Sectoral analysis\na\n\n12.1.1 Setting your needs analysis parameters\na\n\n\n12.1.2 People in Need calculation\na\n\n\n12.1.3 Severity of needs in CCCM\na"
   },
   {
     "objectID": "part3/needs-assessment.html#inter-sectoral-analysis",
     "href": "part3/needs-assessment.html#inter-sectoral-analysis",
     "title": "12  Needs Assessment & Analysis",
     "section": "12.2 Inter-sectoral analysis",
-    "text": "12.2 Inter-sectoral analysis\n…"
+    "text": "12.2 Inter-sectoral analysis\na"
   },
   {
     "objectID": "part3/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
     "href": "part3/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
     "title": "12  Needs Assessment & Analysis",
     "section": "12.3 Humanitarian Needs Overview & Flash Appeals",
-    "text": "12.3 Humanitarian Needs Overview & Flash Appeals\n…"
+    "text": "12.3 Humanitarian Needs Overview & Flash Appeals\na"
   },
   {
     "objectID": "part3/strategic-planning.html#strategic-objectives",
     "href": "part3/strategic-planning.html#strategic-objectives",
     "title": "13  Strategic Planning",
     "section": "13.1 Strategic Objectives",
-    "text": "13.1 Strategic Objectives\n…"
+    "text": "13.1 Strategic Objectives\n."
   },
   {
     "objectID": "part3/strategic-planning.html#indicators",
     "href": "part3/strategic-planning.html#indicators",
     "title": "13  Strategic Planning",
     "section": "13.2 Indicators",
-    "text": "13.2 Indicators\n…"
+    "text": "13.2 Indicators\n."
   },
   {
     "objectID": "part3/strategic-planning.html#activities",
     "href": "part3/strategic-planning.html#activities",
     "title": "13  Strategic Planning",
     "section": "13.3 Activities",
-    "text": "13.3 Activities\n…"
+    "text": "13.3 Activities\n."
   },
   {
     "objectID": "part3/strategic-planning.html#targets",
@@ -228,34 +228,34 @@
     "href": "part3/strategic-planning.html#humanitarian-response-plan",
     "title": "13  Strategic Planning",
     "section": "13.5 Humanitarian Response Plan",
-    "text": "13.5 Humanitarian Response Plan\n…"
+    "text": "13.5 Humanitarian Response Plan\n."
   },
   {
     "objectID": "part3/resource-mobilization.html#costing",
     "href": "part3/resource-mobilization.html#costing",
     "title": "14  Resource Mobilization",
     "section": "14.1 Costing",
-    "text": "14.1 Costing\n…"
+    "text": "14.1 Costing\n."
   },
   {
     "objectID": "part3/implementation-and-monitoring.html#people-reached",
     "href": "part3/implementation-and-monitoring.html#people-reached",
     "title": "15  Implementation & Monitoring",
     "section": "15.1 People Reached",
-    "text": "15.1 People Reached\n…"
+    "text": "15.1 People Reached\n."
   },
   {
     "objectID": "part3/implementation-and-monitoring.html#people-covered",
     "href": "part3/implementation-and-monitoring.html#people-covered",
     "title": "15  Implementation & Monitoring",
     "section": "15.2 People Covered",
-    "text": "15.2 People Covered\n…"
+    "text": "15.2 People Covered\n."
   },
   {
     "objectID": "part3/opr.html#cluster-coordination-performance-monitoring",
     "href": "part3/opr.html#cluster-coordination-performance-monitoring",
     "title": "16  Operational Peer Review & Evaluation",
     "section": "16.1 Cluster Coordination Performance Monitoring",
-    "text": "16.1 Cluster Coordination Performance Monitoring\n…"
+    "text": "16.1 Cluster Coordination Performance Monitoring\n."
   }
 ]
