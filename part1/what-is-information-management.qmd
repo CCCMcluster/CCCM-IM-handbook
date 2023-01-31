@@ -1,7 +1,5 @@
 # What is Information Management?
 
-# Data Literacy
-
 :::{.callout-warning}
 This chapter is in draft stage.
 :::
