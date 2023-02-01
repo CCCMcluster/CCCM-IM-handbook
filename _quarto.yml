@@ -9,6 +9,7 @@ book:
   title: "CCCM IM Handbook"
   author: "CCCM Cluster"
   favicon: logo.png
+  site-url: https://imhandbook.cccmcluster.org
   page-navigation: true
   repo-actions: []
   downloads:
@@ -29,18 +30,18 @@ book:
         - part1/communication.qmd
         - part1/data-responsibility.qmd
         - part1/tools.qmd
-    - part: CCCM Operations IM
-      chapters:
-        - part2/operations.qmd
-        - part2/products.qmd
     - part: CCCM Cluster IM
       chapters:
-        - part3/cluster.qmd
-        - part3/needs-assessment.qmd
-        - part3/strategic-planning.qmd
-        - part3/resource-mobilization.qmd
-        - part3/implementation-and-monitoring.qmd
-        - part3/opr.qmd
+        - part2/cluster.qmd
+        - part2/needs-assessment.qmd
+        - part2/strategic-planning.qmd
+        - part2/resource-mobilization.qmd
+        - part2/implementation-and-monitoring.qmd
+        - part2/opr.qmd
+      - part: CCCM Operations IM
+      chapters:
+        - part3/operations.qmd
+        #- part3/products.qmd
 format:
   html:
     link-external-icon: true

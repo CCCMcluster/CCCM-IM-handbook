@@ -7,7 +7,7 @@ Part 3 of the IM  handbook is in a zero draft phase. Both the structure and cont
 ## Recommended reading
 - [Humanitarian Population Figures](files/humanitarianprofilesupportguidance_final_may2016.pdf) - IMWG
 - [IASC Reference Module for the Implementation of the Humanitarian Programme Cycle](files/humanitarianprofilesupportguidance_final_may2016.pdf)- IASC
-- [Responsibilities of Cluster/Sector Leads and OCHA in Information Management](files/Operational%20Guidance%20on%20Responsibilities%20of%20Cluster-Sector%20Leads%20and%20OCHA%20in%20Information%20Management.pdf) - IASC
+- [Responsibilities of Cluster/Sector Leads and OCHA in Information Management](files/Operational%20Guidance%20on%20Responsibilities%20of%20Cluster-Sector%20Leads%20and%20OCHA%20in%20Information%20Management.pdf) - IASC (2008)
 :::
 
 The role of Information Management in the CCCM Cluster at country-level is best viewed through the lens of the **six core functions**:[^footnote1]  
@@ -53,6 +53,14 @@ Evidence-based advocacy, to inform strategic decision making and to represent th
 ![](images/HPCcycle.png)
 
 > The humanitarian programme cycle (HPC) is a coordinated series of actions undertaken to help prepare for, manage and deliver humanitarian response. It consists of five elements coordinated in a seamless manner, with one step logically building on the previous and leading to the next. Successful implementation of the humanitarian programme cycle is dependent on effective emergency preparedness, effective coordination with national/local authorities and humanitarian actors, and information management. [^footnote2]
+
+## Cross-cutting themes
+
+### Data Responsibility
+
+### Knowledge Management
+
+## Preparedness
 
 
 [^footnote1]: From the [IASC Reference Module for Cluster Coordination at Country Level, revised July 2015](files/Reference Module for Cluster Coordination at Country Level.pdf)

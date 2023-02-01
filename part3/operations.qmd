@@ -1,0 +1,4 @@
+# IM in CCCM Operations
+:::{warning}
+This part of the handbook will be drafted following the completion of the Part 1 - [Humanitarian IM](https://imhandbook.cccmcluster.org/part1/data-literacy.html) and Part 2 - [CCCM Cluster IM](https://imhandbook.cccmcluster.org/part3/cluster.html) of the handbook
+:::
