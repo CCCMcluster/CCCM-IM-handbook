@@ -41,7 +41,6 @@ book:
       - part: CCCM Operations IM
       chapters:
         - part3/operations.qmd
-        #- part3/products.qmd
 format:
   html:
     link-external-icon: true
