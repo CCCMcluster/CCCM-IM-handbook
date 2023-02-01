@@ -1,8 +1,6 @@
 project:
   type: book
   output-dir: docs
-  resources:
-    - CNAME
   
 book:
   title: "CCCM IM Handbook"
@@ -42,6 +40,8 @@ book:
         - part3/operations.qmd
 format:
   html:
+    resources:
+      - CNAME
     link-external-icon: true
     link-external-newwindow: true
     logo: logo.png
