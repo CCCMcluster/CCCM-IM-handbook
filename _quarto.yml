@@ -38,7 +38,7 @@ book:
         - part2/resource-mobilization.qmd
         - part2/implementation-and-monitoring.qmd
         - part2/opr.qmd
-      - part: CCCM Operations IM
+    - part: CCCM Operations IM
       chapters:
         - part3/operations.qmd
 format:
