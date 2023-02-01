@@ -147,108 +147,115 @@
     "text": "7.2 Advanced tools\n."
   },
   {
-    "objectID": "part2/operations.html",
-    "href": "part2/operations.html",
-    "title": "8  The role of IM in CCCM Operations",
+    "objectID": "part2/cluster.html#the-humanitarian-program-cycle",
+    "href": "part2/cluster.html#the-humanitarian-program-cycle",
+    "title": "8  The role of IM in the Cluster",
+    "section": "8.1 The Humanitarian Program Cycle",
+    "text": "8.1 The Humanitarian Program Cycle\n\n\nThe humanitarian programme cycle (HPC) is a coordinated series of actions undertaken to help prepare for, manage and deliver humanitarian response. It consists of five elements coordinated in a seamless manner, with one step logically building on the previous and leading to the next. Successful implementation of the humanitarian programme cycle is dependent on effective emergency preparedness, effective coordination with national/local authorities and humanitarian actors, and information management. 2"
+  },
+  {
+    "objectID": "part2/cluster.html#cross-cutting-themes",
+    "href": "part2/cluster.html#cross-cutting-themes",
+    "title": "8  The role of IM in the Cluster",
+    "section": "8.2 Cross-cutting themes",
+    "text": "8.2 Cross-cutting themes\n\n8.2.1 Data Responsibility\n\n\n8.2.2 Knowledge Management"
+  },
+  {
+    "objectID": "part2/cluster.html#preparedness",
+    "href": "part2/cluster.html#preparedness",
+    "title": "8  The role of IM in the Cluster",
+    "section": "8.3 Preparedness",
+    "text": "8.3 Preparedness"
+  },
+  {
+    "objectID": "part2/needs-assessment.html#cccm-sectoral-analysis",
+    "href": "part2/needs-assessment.html#cccm-sectoral-analysis",
+    "title": "9  Needs Assessment & Analysis",
+    "section": "9.1 CCCM Sectoral analysis",
+    "text": "9.1 CCCM Sectoral analysis\na\n\n9.1.1 Setting your needs analysis parameters\na\n\n\n9.1.2 People in Need calculation\na\n\n\n9.1.3 Severity of needs in CCCM\na"
+  },
+  {
+    "objectID": "part2/needs-assessment.html#inter-sectoral-analysis",
+    "href": "part2/needs-assessment.html#inter-sectoral-analysis",
+    "title": "9  Needs Assessment & Analysis",
+    "section": "9.2 Inter-sectoral analysis",
+    "text": "9.2 Inter-sectoral analysis\na"
+  },
+  {
+    "objectID": "part2/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
+    "href": "part2/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
+    "title": "9  Needs Assessment & Analysis",
+    "section": "9.3 Humanitarian Needs Overview & Flash Appeals",
+    "text": "9.3 Humanitarian Needs Overview & Flash Appeals\na"
+  },
+  {
+    "objectID": "part2/strategic-planning.html#strategic-objectives",
+    "href": "part2/strategic-planning.html#strategic-objectives",
+    "title": "10  Strategic Planning",
+    "section": "10.1 Strategic Objectives",
+    "text": "10.1 Strategic Objectives\n."
+  },
+  {
+    "objectID": "part2/strategic-planning.html#indicators",
+    "href": "part2/strategic-planning.html#indicators",
+    "title": "10  Strategic Planning",
+    "section": "10.2 Indicators",
+    "text": "10.2 Indicators\n."
+  },
+  {
+    "objectID": "part2/strategic-planning.html#activities",
+    "href": "part2/strategic-planning.html#activities",
+    "title": "10  Strategic Planning",
+    "section": "10.3 Activities",
+    "text": "10.3 Activities\n."
+  },
+  {
+    "objectID": "part2/strategic-planning.html#targets",
+    "href": "part2/strategic-planning.html#targets",
+    "title": "10  Strategic Planning",
+    "section": "10.4 Targets",
+    "text": "10.4 Targets"
+  },
+  {
+    "objectID": "part2/strategic-planning.html#humanitarian-response-plan",
+    "href": "part2/strategic-planning.html#humanitarian-response-plan",
+    "title": "10  Strategic Planning",
+    "section": "10.5 Humanitarian Response Plan",
+    "text": "10.5 Humanitarian Response Plan\n."
+  },
+  {
+    "objectID": "part2/resource-mobilization.html#costing",
+    "href": "part2/resource-mobilization.html#costing",
+    "title": "11  Resource Mobilization",
+    "section": "11.1 Costing",
+    "text": "11.1 Costing\n."
+  },
+  {
+    "objectID": "part2/implementation-and-monitoring.html#people-reached",
+    "href": "part2/implementation-and-monitoring.html#people-reached",
+    "title": "12  Implementation & Monitoring",
+    "section": "12.1 People Reached",
+    "text": "12.1 People Reached\n."
+  },
+  {
+    "objectID": "part2/implementation-and-monitoring.html#people-covered",
+    "href": "part2/implementation-and-monitoring.html#people-covered",
+    "title": "12  Implementation & Monitoring",
+    "section": "12.2 People Covered",
+    "text": "12.2 People Covered\n."
+  },
+  {
+    "objectID": "part2/opr.html#cluster-coordination-performance-monitoring",
+    "href": "part2/opr.html#cluster-coordination-performance-monitoring",
+    "title": "13  Operational Peer Review & Evaluation",
+    "section": "13.1 Cluster Coordination Performance Monitoring",
+    "text": "13.1 Cluster Coordination Performance Monitoring\n."
+  },
+  {
+    "objectID": "part3/operations.html",
+    "href": "part3/operations.html",
+    "title": "14  IM in CCCM Operations",
     "section": "",
-    "text": "Drafting of this chapter has not yet started.\n\nTodo: create outline for part 3."
-  },
-  {
-    "objectID": "part2/products.html",
-    "href": "part2/products.html",
-    "title": "9  Products & Templates",
-    "section": "",
-    "text": "Warning\n\n\n\nDrafting of this chapter has not yet started.\n\n\nnote: For some products, the operating environment may dictate wherether certain tools are designed at the CCCM partner level or at the Cluster level. For example, in some countries, the CCCM Cluster designed and manages a single system for Complaint and Feedback, whereas in other contexts each CCCM partner design and manage their own system."
-  },
-  {
-    "objectID": "part3/cluster.html#the-humanitarian-program-cycle",
-    "href": "part3/cluster.html#the-humanitarian-program-cycle",
-    "title": "10  The role of IM in the Cluster",
-    "section": "10.1 The Humanitarian Program Cycle",
-    "text": "10.1 The Humanitarian Program Cycle\n\n\nThe humanitarian programme cycle (HPC) is a coordinated series of actions undertaken to help prepare for, manage and deliver humanitarian response. It consists of five elements coordinated in a seamless manner, with one step logically building on the previous and leading to the next. Successful implementation of the humanitarian programme cycle is dependent on effective emergency preparedness, effective coordination with national/local authorities and humanitarian actors, and information management. 2"
-  },
-  {
-    "objectID": "part3/needs-assessment.html#cccm-sectoral-analysis",
-    "href": "part3/needs-assessment.html#cccm-sectoral-analysis",
-    "title": "11  Needs Assessment & Analysis",
-    "section": "11.1 CCCM Sectoral analysis",
-    "text": "11.1 CCCM Sectoral analysis\na\n\n11.1.1 Setting your needs analysis parameters\na\n\n\n11.1.2 People in Need calculation\na\n\n\n11.1.3 Severity of needs in CCCM\na"
-  },
-  {
-    "objectID": "part3/needs-assessment.html#inter-sectoral-analysis",
-    "href": "part3/needs-assessment.html#inter-sectoral-analysis",
-    "title": "11  Needs Assessment & Analysis",
-    "section": "11.2 Inter-sectoral analysis",
-    "text": "11.2 Inter-sectoral analysis\na"
-  },
-  {
-    "objectID": "part3/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
-    "href": "part3/needs-assessment.html#humanitarian-needs-overview-flash-appeals",
-    "title": "11  Needs Assessment & Analysis",
-    "section": "11.3 Humanitarian Needs Overview & Flash Appeals",
-    "text": "11.3 Humanitarian Needs Overview & Flash Appeals\na"
-  },
-  {
-    "objectID": "part3/strategic-planning.html#strategic-objectives",
-    "href": "part3/strategic-planning.html#strategic-objectives",
-    "title": "12  Strategic Planning",
-    "section": "12.1 Strategic Objectives",
-    "text": "12.1 Strategic Objectives\n."
-  },
-  {
-    "objectID": "part3/strategic-planning.html#indicators",
-    "href": "part3/strategic-planning.html#indicators",
-    "title": "12  Strategic Planning",
-    "section": "12.2 Indicators",
-    "text": "12.2 Indicators\n."
-  },
-  {
-    "objectID": "part3/strategic-planning.html#activities",
-    "href": "part3/strategic-planning.html#activities",
-    "title": "12  Strategic Planning",
-    "section": "12.3 Activities",
-    "text": "12.3 Activities\n."
-  },
-  {
-    "objectID": "part3/strategic-planning.html#targets",
-    "href": "part3/strategic-planning.html#targets",
-    "title": "12  Strategic Planning",
-    "section": "12.4 Targets",
-    "text": "12.4 Targets"
-  },
-  {
-    "objectID": "part3/strategic-planning.html#humanitarian-response-plan",
-    "href": "part3/strategic-planning.html#humanitarian-response-plan",
-    "title": "12  Strategic Planning",
-    "section": "12.5 Humanitarian Response Plan",
-    "text": "12.5 Humanitarian Response Plan\n."
-  },
-  {
-    "objectID": "part3/resource-mobilization.html#costing",
-    "href": "part3/resource-mobilization.html#costing",
-    "title": "13  Resource Mobilization",
-    "section": "13.1 Costing",
-    "text": "13.1 Costing\n."
-  },
-  {
-    "objectID": "part3/implementation-and-monitoring.html#people-reached",
-    "href": "part3/implementation-and-monitoring.html#people-reached",
-    "title": "14  Implementation & Monitoring",
-    "section": "14.1 People Reached",
-    "text": "14.1 People Reached\n."
-  },
-  {
-    "objectID": "part3/implementation-and-monitoring.html#people-covered",
-    "href": "part3/implementation-and-monitoring.html#people-covered",
-    "title": "14  Implementation & Monitoring",
-    "section": "14.2 People Covered",
-    "text": "14.2 People Covered\n."
-  },
-  {
-    "objectID": "part3/opr.html#cluster-coordination-performance-monitoring",
-    "href": "part3/opr.html#cluster-coordination-performance-monitoring",
-    "title": "15  Operational Peer Review & Evaluation",
-    "section": "15.1 Cluster Coordination Performance Monitoring",
-    "text": "15.1 Cluster Coordination Performance Monitoring\n."
+    "text": "This part of the handbook will be drafted following the completion of the Part 1 - Humanitarian IM and Part 2 - CCCM Cluster IM of the handbook"
   }
 ]
