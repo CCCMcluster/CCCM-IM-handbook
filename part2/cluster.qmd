@@ -10,7 +10,7 @@ Part 3 of the IM  handbook is in a zero draft phase. Both the structure and cont
 - [Responsibilities of Cluster/Sector Leads and OCHA in Information Management](files/Operational%20Guidance%20on%20Responsibilities%20of%20Cluster-Sector%20Leads%20and%20OCHA%20in%20Information%20Management.pdf) - IASC (2008)
 :::
 
-The role of Information Management in the CCCM Cluster at country-level is best viewed through the lens of the **six core functions**:[^footnote1]  
+The role of Information Management in the CCCM Cluster at country-level is best viewed through the lens of the **six core functions**:[^footnote801]  
 
 >1. To support service delivery by:
 >    - Providing a platform that ensures service delivery is driven by the Humanitarian Response Plan and strategic priorities.
@@ -52,7 +52,7 @@ Evidence-based advocacy, to inform strategic decision making and to represent th
 ## The Humanitarian Program Cycle
 ![](images/HPCcycle.png)
 
-> The humanitarian programme cycle (HPC) is a coordinated series of actions undertaken to help prepare for, manage and deliver humanitarian response. It consists of five elements coordinated in a seamless manner, with one step logically building on the previous and leading to the next. Successful implementation of the humanitarian programme cycle is dependent on effective emergency preparedness, effective coordination with national/local authorities and humanitarian actors, and information management. [^footnote2]
+> The humanitarian programme cycle (HPC) is a coordinated series of actions undertaken to help prepare for, manage and deliver humanitarian response. It consists of five elements coordinated in a seamless manner, with one step logically building on the previous and leading to the next. Successful implementation of the humanitarian programme cycle is dependent on effective emergency preparedness, effective coordination with national/local authorities and humanitarian actors, and information management. [^footnote802]
 
 ## Cross-cutting themes
 
@@ -60,9 +60,20 @@ Evidence-based advocacy, to inform strategic decision making and to represent th
 
 ### Knowledge Management
 
-## Preparedness
+### Preparedness
 
+## Useful Conceptual Aids
 
-[^footnote1]: From the [IASC Reference Module for Cluster Coordination at Country Level, revised July 2015](files/Reference Module for Cluster Coordination at Country Level.pdf)
+### The Onion Model of Population Categories
 
-[^footnote2]: More details on [HumanitarianResponse.info](https://www.humanitarianresponse.info/en/programme-cycle/space)
+![Onion Model, Source: IASC](images/onion.png)
+
+### Profile  Framework / CCCM Site Typology
+
+![Humanitarian Profile Framework, Source: IASC](images/humanitarian_profile_framework.png)
+
+![CCCM Site TYpology, Source: Minimum Standards for Camp Management](images/site_typology.png)
+
+[^footnote801]: From the [IASC Reference Module for Cluster Coordination at Country Level, revised July 2015](files/Reference Module for Cluster Coordination at Country Level.pdf)
+
+[^footnote802]: More details on [HumanitarianResponse.info](https://www.humanitarianresponse.info/en/programme-cycle/space)

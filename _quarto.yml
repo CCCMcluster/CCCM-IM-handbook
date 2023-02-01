@@ -1,9 +1,8 @@
 project:
   type: book
   output-dir: docs
-
-execute:
-  freeze: auto
+  resources:
+    - CNAME
   
 book:
   title: "CCCM IM Handbook"
