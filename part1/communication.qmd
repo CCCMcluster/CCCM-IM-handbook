@@ -300,11 +300,14 @@ Where possible, special attention should be taken to ensure that chart remain re
 
 Adding to the previous description of the role of color in perception, the use of colour in scales, particularly maps, typically takes one of the following three forms.[^footnote2]  
 
-1. ![Sequential](/part1/images/sequential-scale.png) **Continuous(sequential) scales** used to show values going from low to high. Eg. population density per district.
+![Sequential](/part1/images/sequential-scale.png)
+1. **Continuous(sequential) scales** used to show values going from low to high. Eg. population density per district.
 
-2. ![Diverging](/part1/images/diverging-scale.png) **Diverging scales**  which visualize difference from a norm, such as [this example](https://storymaps.arcgis.com/stories/a371cdf9462b4dca9051b9f60a3185bc) showing location in St Vincent that showed both net inward and outward movements of people following the eruption of a volcano.
+![Diverging](/part1/images/diverging-scale.png) 
+2.**Diverging scales**  which visualize difference from a norm, such as [this example](https://storymaps.arcgis.com/stories/a371cdf9462b4dca9051b9f60a3185bc) showing location in St Vincent that showed both net inward and outward movements of people following the eruption of a volcano.
 
-3. ![Qualitative](/part1/images/qualitative-scale.png)**Categorical(qualitative) scales** used to distinguish different (non numeric) objects eg. a map using different shades for different countries.
+![Qualitative](/part1/images/qualitative-scale.png)
+3.**Categorical(qualitative) scales** used to distinguish different (non numeric) objects eg. a map using different shades for different countries.
 
 Two of the most common ways to respresent colour are RGB and CMYK. RGB, commonly used on websites can be shown as a hex number or RGB number. For printed materials where colour accuracy is important, CYMK is typically used. Not all software supports the CMYK colour space, so if color accuracy is important you may want to use an Adobe tool such as Illustrator or In Design to apply finishing touches to print materials.[^footnote3]
 
